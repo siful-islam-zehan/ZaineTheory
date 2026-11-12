@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="100%" height="100%">
+  <defs>
+    <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="#000000" />
+  <circle cx="300" cy="300" r="280" fill="url(#halo)" />
+  
+  <!-- 3D Helical Coil Wireframe from mockup -->
+  <g stroke="#ffffff" stroke-width="1.5" fill="none" opacity="0.85">
+    <!-- Spiraling ellipses and interconnected lattice -->
+    <ellipse cx="300" cy="120" rx="140" ry="24" stroke-opacity="0.9" />
+    <ellipse cx="300" cy="150" rx="140" ry="24" stroke-opacity="0.8" />
+    <ellipse cx="300" cy="180" rx="140" ry="24" stroke-opacity="0.75" />
+    <ellipse cx="300" cy="210" rx="140" ry="24" stroke-opacity="0.7" />
+    <ellipse cx="300" cy="240" rx="140" ry="24" stroke-opacity="0.65" />
+    <ellipse cx="300" cy="270" rx="140" ry="24" stroke-opacity="0.6" />
+    <ellipse cx="300" cy="300" rx="140" ry="24" stroke-opacity="0.55" />
+    <ellipse cx="300" cy="330" rx="140" ry="24" stroke-opacity="0.5" />
+    <ellipse cx="300" cy="360" rx="140" ry="24" stroke-opacity="0.45" />
+    <ellipse cx="300" cy="390" rx="140" ry="24" stroke-opacity="0.4" />
+    <ellipse cx="300" cy="420" rx="140" ry="24" stroke-opacity="0.35" />
+    <ellipse cx="300" cy="450" rx="140" ry="24" stroke-opacity="0.3" />
+    <ellipse cx="300" cy="480" rx="140" ry="24" stroke-opacity="0.25" />
+
+    <!-- Vertical connecting struts -->
+    <path d="M160 120 L160 480 M440 120 L440 480" stroke-width="1.8" />
+    <path d="M200 125 L200 485 M400 125 L400 485" stroke-dasharray="3,3" />
+    <path d="M250 130 L250 490 M350 130 L350 490" stroke-dasharray="2,4" />
+    
+    <!-- Diagonal cross spiral lines -->
+    <path d="M160 120 L440 240 M440 240 L160 360 M160 360 L440 480" stroke-width="2" stroke="#4ade80" stroke-opacity="0.7"/>
+    <path d="M440 120 L160 240 M160 240 L440 360 M440 360 L160 480" stroke-width="1" stroke="#38bdf8" stroke-opacity="0.7"/>
+  </g>
+
+  <!-- Video Play Indicator Badge -->
+  <circle cx="300" cy="300" r="38" fill="rgba(0,0,0,0.7)" stroke="#ffffff" stroke-width="2"/>
+  <polygon points="292,286 316,300 292,314" fill="#ffffff" />
+  <text x="300" y="360" fill="#ffffff" font-family="'Courier New', monospace" font-size="12" text-anchor="middle" letter-spacing="3">VIDEO READY</text>
+</svg>

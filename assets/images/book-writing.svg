@@ -1,0 +1,37 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 260" width="100%" height="100%">
+  <defs>
+    <linearGradient id="spineG" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(0,0,0,0.5)"/>
+      <stop offset="3%" stop-color="rgba(255,255,255,0.2)"/>
+      <stop offset="6%" stop-color="rgba(0,0,0,0.2)"/>
+      <stop offset="100%" stop-color="rgba(0,0,0,0)"/>
+    </linearGradient>
+  </defs>
+  <!-- Book Base -->
+  <rect width="180" height="260" rx="4" fill="#ecfdf5" stroke="rgba(255,255,255,0.15)" stroke-width="1"/>
+  <!-- Spine Shadow -->
+  <rect width="20" height="260" fill="url(#spineG)"/>
+  
+  <!-- Ornament / Icon -->
+  <circle cx="95" cy="85" r="28" fill="#059669" opacity="0.2"/>
+  <text x="95" y="93" font-size="24" text-anchor="middle">📑</text>
+  
+  <!-- Title -->
+  <text x="95" y="145" fill="#064e3b" font-family="'Cinzel', 'Times New Roman', Georgia, serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="1">
+    WRITING SCIENTIFIC
+  </text>
+  <text x="95" y="162" fill="#064e3b" font-family="'Cinzel', 'Times New Roman', Georgia, serif" font-size="11" font-weight="bold" text-anchor="middle" letter-spacing="1">
+    PAPERS
+  </text>
+  
+  <!-- Line divider -->
+  <line x1="45" y1="180" x2="145" y2="180" stroke="#059669" stroke-width="1.5" opacity="0.7"/>
+  
+  <!-- Author -->
+  <text x="95" y="210" fill="#064e3b" font-family="sans-serif" font-size="9" text-anchor="middle" opacity="0.85" letter-spacing="0.5">
+    Academic Guild
+  </text>
+  
+  <!-- Subtle 3D Edge -->
+  <line x1="178" y1="0" x2="178" y2="260" stroke="rgba(0,0,0,0.3)" stroke-width="2"/>
+</svg>

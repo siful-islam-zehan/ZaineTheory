@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="100%" height="100%">
+  <radialGradient id="darG" cx="50%" cy="40%" r="55%">
+    <stop offset="0%" stop-color="#3f3f46"/>
+    <stop offset="100%" stop-color="#09090b"/>
+  </radialGradient>
+  <rect width="300" height="400" fill="url(#darG)"/>
+  
+  <g fill="#e4e4e7">
+    <!-- Bald Crown with Side Hair -->
+    <path d="M100 130 C100 80, 130 65, 150 65 C170 65, 200 80, 200 130 C220 150, 215 190, 210 210 C200 180, 200 150, 195 130 C185 100, 165 90, 150 90 C135 90, 115 100, 105 130 C100 150, 100 180, 90 210 C85 190, 80 150, 100 130 Z" fill="#71717a"/>
+    <!-- Face -->
+    <path d="M110 120 C110 180, 120 220, 150 225 C180 220, 190 180, 190 120 C190 95, 175 80, 150 80 C125 80, 110 95, 110 120 Z" fill="#d4d4d8"/>
+    
+    <!-- Heavy Brow & Eyes -->
+    <path d="M115 135 Q132 128 142 135 M185 135 Q168 128 158 135" stroke="#27272a" stroke-width="4" fill="none"/>
+    <circle cx="132" cy="144" r="3" fill="#18181b"/>
+    <circle cx="168" cy="144" r="3" fill="#18181b"/>
+    <path d="M150 140 L152 175 Q145 180 140 180" stroke="#18181b" stroke-width="2" fill="none"/>
+    
+    <!-- Famous Long White Victorian Beard -->
+    <path d="M115 180 C95 240, 100 320, 150 340 C200 320, 205 240, 185 180 C180 230, 170 300, 150 310 C130 300, 120 230, 115 180 Z" fill="#f4f4f5"/>
+    <path d="M125 200 C115 250, 125 300, 150 325 C175 300, 185 250, 175 200 Z" fill="#e4e4e7"/>
+    
+    <!-- Overcoat -->
+    <path d="M60 400 L95 260 L150 290 L205 260 L240 400 Z" fill="#18181b"/>
+  </g>
+  <rect x="8" y="8" width="284" height="384" fill="none" stroke="#52525b" stroke-width="1"/>
+</svg>

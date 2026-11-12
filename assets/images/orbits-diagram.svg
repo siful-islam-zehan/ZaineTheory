@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 340" width="100%" height="100%">
+  <defs>
+    <filter id="glowWhite" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <!-- Pure black canvas -->
+  <rect width="540" height="340" fill="#000000" rx="4"/>
+  
+  <!-- Intersecting Elliptical Orbits matching screenshot -->
+  <g fill="none" stroke="#ffffff" stroke-width="1.1" opacity="0.8">
+    <!-- Large primary ellipse -->
+    <ellipse cx="270" cy="170" rx="200" ry="125" transform="rotate(-12 270 170)"/>
+    <!-- Angled orbital ring 1 -->
+    <ellipse cx="290" cy="165" rx="175" ry="105" transform="rotate(22 290 165)"/>
+    <!-- Inner orbital ring 2 -->
+    <ellipse cx="250" cy="175" rx="130" ry="85" transform="rotate(-38 250 175)"/>
+    <!-- Deep angled ring 3 -->
+    <ellipse cx="280" cy="160" rx="150" ry="65" transform="rotate(55 280 160)"/>
+    <!-- Outer wide orbit ring 4 -->
+    <ellipse cx="260" cy="170" rx="230" ry="110" transform="rotate(-6 260 170)"/>
+  </g>
+
+  <!-- Glowing celestial nodes (matching screenshot positions) -->
+  <g fill="#ffffff" filter="url(#glowWhite)">
+    <!-- Node on left -->
+    <circle cx="95" cy="155" r="3.5"/>
+    <!-- Node upper center -->
+    <circle cx="245" cy="88" r="3"/>
+    <!-- Node upper right -->
+    <circle cx="370" cy="115" r="3"/>
+    <!-- Center focal node -->
+    <circle cx="280" cy="160" r="4.5"/>
+    <!-- Node right periphery -->
+    <circle cx="455" cy="180" r="3"/>
+    <!-- Node bottom center -->
+    <circle cx="255" cy="245" r="3.5"/>
+    <!-- Node bottom right -->
+    <circle cx="380" cy="240" r="3"/>
+  </g>
+</svg>

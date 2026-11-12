@@ -1,0 +1,1341 @@
+/**
+ * ZaineTheory - The Scientific Theory & Research Archive
+ * Design System inspired by classic academic journals and modern scientific aesthetics
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+    --bg-black: #000000;
+    --bg-dark-card: #0c0d10;
+    --bg-dark-subtle: #121318;
+    --border-dark: rgba(255, 255, 255, 0.12);
+    --border-dark-hover: rgba(255, 255, 255, 0.35);
+
+    --bg-white: #ffffff;
+    --bg-light-subtle: #f8fafc;
+    --border-light: #e2e8f0;
+    --border-light-hover: #94a3b8;
+
+    --text-light-primary: #ffffff;
+    --text-light-muted: #a1a1aa;
+    --text-light-dim: #71717a;
+
+    --text-dark-primary: #09090b;
+    --text-dark-muted: #52525b;
+    --text-dark-dim: #71717a;
+
+    --accent-emerald: #10b981;
+    --accent-cyan: #38bdf8;
+    --accent-gold: #f59e0b;
+
+    --font-serif: 'Cinzel', 'Times New Roman', Georgia, serif;
+    --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+    --font-mono: 'JetBrains Mono', 'Courier New', monospace;
+
+    --max-w: 1240px;
+    --transition: all 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Base Reset */
+*, *::before, *::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+    font-size: 16px;
+    background-color: var(--bg-black);
+    color: var(--text-light-primary);
+}
+
+body {
+    font-family: var(--font-sans);
+    line-height: 1.6;
+    background-color: var(--bg-black);
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+}
+
+img, video {
+    max-width: 100%;
+    display: block;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    transition: var(--transition);
+}
+
+.container {
+    width: 100%;
+    max-width: var(--max-w);
+    margin-inline: auto;
+    padding-inline: 2rem;
+}
+
+/* ==============================================================
+   NAVBAR (ZAINE THEORY)
+   ============================================================== */
+.zahn-nav {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background: #000000;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    padding: 1.1rem 0;
+}
+
+.nav-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.brand-logo {
+    display: inline-flex;
+    align-items: center;
+    text-decoration: none;
+    transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+.brand-logo-img {
+    height: 44px;
+    width: auto;
+    max-height: 48px;
+    object-fit: contain;
+    display: block;
+    image-rendering: -webkit-optimize-contrast;
+}
+
+.brand-logo:hover {
+    opacity: 0.88;
+    transform: translateY(-1px);
+}
+
+.nav-menu {
+    display: flex;
+    align-items: center;
+    gap: 2.2rem;
+    list-style: none;
+}
+
+.nav-item a {
+    font-family: var(--font-sans);
+    font-size: 0.88rem;
+    font-weight: 400;
+    color: #d4d4d8;
+    transition: var(--transition);
+}
+
+.nav-item a:hover, .nav-item a.active {
+    color: #ffffff;
+}
+
+.nav-cta {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.btn-demo-note {
+    font-size: 0.82rem;
+    font-weight: 500;
+    color: #ffffff;
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    padding: 0.55rem 1.25rem;
+    border-radius: 4px;
+    transition: var(--transition);
+}
+
+.btn-demo-note:hover {
+    border-color: #ffffff;
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.btn-apply-class {
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: #000000;
+    background: #ffffff;
+    border: 1px solid #ffffff;
+    padding: 0.55rem 1.35rem;
+    border-radius: 4px;
+    transition: var(--transition);
+}
+
+.btn-apply-class:hover {
+    background: #e4e4e7;
+    border-color: #e4e4e7;
+}
+
+.nav-mobile-btn {
+    display: none;
+    background: none;
+    border: none;
+    color: #ffffff;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+/* ==============================================================
+   HERO SECTION (ZAINE THEORY — IT'S JUST THEORY)
+   ============================================================== */
+.hero-section {
+    position: relative;
+    background: #000000;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    overflow: hidden;
+    padding: 5.5rem 0 0 0;
+}
+
+.hero-grid {
+    display: grid;
+    grid-template-columns: 1.15fr 0.85fr;
+    gap: 2rem;
+    align-items: stretch;
+}
+
+.hero-left {
+    z-index: 2;
+    padding-bottom: 5.5rem;
+}
+
+.hero-title {
+    font-family: var(--font-sans);
+    font-size: 4.4rem;
+    font-weight: 200;
+    letter-spacing: 0.05em;
+    line-height: 1.05;
+    color: #ffffff;
+    margin-bottom: 1.75rem;
+    text-transform: uppercase;
+}
+
+.hero-description {
+    font-family: var(--font-sans);
+    font-size: 0.92rem;
+    line-height: 1.65;
+    color: #a1a1aa;
+    max-width: 590px;
+    margin-bottom: 2rem;
+    font-weight: 400;
+}
+
+/* Hero Search Bar */
+.hero-search-wrapper {
+    display: flex;
+    background: #ffffff;
+    border-radius: 4px;
+    overflow: hidden;
+    max-width: 520px;
+    margin-bottom: 1.75rem;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.6);
+}
+
+.hero-search-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    padding: 0.85rem 1.25rem;
+    font-size: 0.9rem;
+    font-family: var(--font-sans);
+    color: #09090b;
+}
+
+.hero-search-input::placeholder {
+    color: #71717a;
+}
+
+.hero-search-btn {
+    background: #383838;
+    color: #ffffff;
+    border: none;
+    padding: 0 1.75rem;
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    font-weight: 500;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.hero-search-btn:hover {
+    background: #4a4a4a;
+}
+
+/* Action Buttons below search */
+.hero-actions-row {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.btn-explore-scientists {
+    background: #ffffff;
+    color: #000000;
+    padding: 0.7rem 1.45rem;
+    border-radius: 4px;
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: var(--transition);
+}
+
+.btn-explore-scientists:hover {
+    background: #e4e4e7;
+    transform: translateY(-1px);
+}
+
+.btn-explore-research {
+    color: #ffffff;
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: var(--transition);
+}
+
+.btn-explore-research:hover {
+    color: #38bdf8;
+    gap: 0.75rem;
+}
+
+/* Hero Right: Falling Slabs Inverted Graphic Container */
+.hero-right {
+    position: relative;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.hero-animation-container {
+    position: relative;
+    width: 100%;
+    max-width: 520px;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+.hero-visual-canvas,
+.hero-visual-img {
+    width: 100%;
+    height: auto;
+    max-height: 540px;
+    object-fit: contain;
+    object-position: bottom right;
+    display: block;
+    mix-blend-mode: screen;
+    filter: contrast(1.1) brightness(1.05);
+    user-select: none;
+    -webkit-user-drag: none;
+    transition: transform 0.4s ease;
+}
+
+.hero-visual-canvas:hover,
+.hero-visual-img:hover {
+    transform: scale(1.02);
+}
+
+@keyframes pulse {
+    0%, 100% { opacity: 1; transform: scale(1); }
+    50% { opacity: 0.4; transform: scale(0.85); }
+}
+
+/* ==============================================================
+   SECTION: LAW OF NEWTON (Crisp White #ffffff — matching mockup)
+   ============================================================== */
+.section-newton {
+    background: #ffffff;
+    color: #09090b;
+    padding: 5rem 0 0 0;
+    overflow: hidden;
+}
+
+.newton-grid {
+    display: grid;
+    grid-template-columns: 0.95fr 1.05fr;
+    gap: 3.5rem;
+    align-items: flex-end;
+}
+
+.newton-portrait-clean {
+    width: 100%;
+    max-width: 480px;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    margin-bottom: 0;
+}
+
+.newton-content {
+    padding-bottom: 4.5rem;
+}
+
+.newton-title {
+    font-family: var(--font-serif);
+    font-size: 2.5rem;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #09090b;
+    margin-bottom: 1.5rem;
+    line-height: 1.15;
+}
+
+.newton-text {
+    font-family: var(--font-sans);
+    font-size: 0.88rem;
+    line-height: 1.75;
+    color: #3f3f46;
+    margin-bottom: 1.25rem;
+    text-align: justify;
+}
+
+.newton-actions {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.btn-read-more {
+    background: #000000;
+    color: #ffffff;
+    padding: 0.65rem 1.65rem;
+    font-family: var(--font-sans);
+    font-size: 0.82rem;
+    font-weight: 500;
+    border-radius: 4px;
+    border: 1px solid #000000;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.btn-read-more:hover {
+    background: #27272a;
+    transform: translateY(-1px);
+}
+
+.btn-more-research {
+    background: #f4f4f5;
+    color: #09090b;
+    padding: 0.65rem 1.65rem;
+    font-family: var(--font-sans);
+    font-size: 0.82rem;
+    font-weight: 500;
+    border-radius: 4px;
+    border: 1px solid #e4e4e7;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.btn-more-research:hover {
+    background: #e4e4e7;
+}
+
+/* ==============================================================
+   SECTION: RESEARCH BY SUBJECT (Dark #000000 — matching mockup)
+   ============================================================== */
+.section-subjects {
+    position: relative;
+    background: #000000;
+    padding: 6rem 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    overflow: hidden;
+}
+
+@keyframes spinTorusRing {
+    0% {
+        transform: translateY(-50%) rotate(0deg);
+    }
+    100% {
+        transform: translateY(-50%) rotate(360deg);
+    }
+}
+
+.subjects-bg-watermark {
+    position: absolute;
+    right: -80px;
+    top: 50%;
+    width: 680px;
+    height: 680px;
+    background: url('../images/torus-ring.jpg') no-repeat center center / contain;
+    opacity: 0.22;
+    pointer-events: none;
+    mix-blend-mode: screen;
+    animation: spinTorusRing 30s linear infinite;
+    transform-origin: center center;
+    will-change: transform;
+    transition: margin 0.25s ease-out;
+}
+
+.section-title-clean {
+    font-family: var(--font-sans);
+    font-size: 2.35rem;
+    font-weight: 400;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    margin-bottom: 0.5rem;
+}
+
+.section-subtitle-clean {
+    color: #a1a1aa;
+    font-size: 0.95rem;
+    margin-bottom: 3.5rem;
+    font-weight: 400;
+}
+
+.subjects-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.25rem;
+    position: relative;
+    z-index: 2;
+}
+
+.subject-card {
+    background: #000000;
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    padding: 1.75rem 1.5rem;
+    border-radius: 4px;
+    transition: var(--transition);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 180px;
+}
+
+.subject-card:hover {
+    border-color: rgba(255, 255, 255, 0.4);
+    background: #08080a;
+    transform: translateY(-2px);
+}
+
+.subject-name {
+    font-family: var(--font-sans);
+    font-size: 1.15rem;
+    font-weight: 500;
+    color: #ffffff;
+    margin-bottom: 0.5rem;
+}
+
+.subject-desc {
+    font-size: 0.82rem;
+    color: #888888;
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+}
+
+.subject-card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: var(--font-sans);
+    font-size: 0.72rem;
+    letter-spacing: 0.05em;
+    color: #71717a;
+    border-top: 1px solid rgba(255, 255, 255, 0.06);
+    padding-top: 0.75rem;
+}
+
+.subject-card-footer a {
+    color: #a1a1aa;
+}
+
+.subject-card-footer a:hover {
+    color: #ffffff;
+}
+
+/* ==============================================================
+   SECTION: THE PEOPLE BEHIND THE IDEAS (White #ffffff — matching mockup)
+   ============================================================== */
+.section-people {
+    background: #ffffff;
+    color: #09090b;
+    padding: 6rem 0 6.5rem;
+    border-bottom: 1px solid #e4e4e7;
+}
+
+.people-header {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin-bottom: 3rem;
+}
+
+.people-kicker {
+    font-family: var(--font-sans);
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: #71717a;
+    letter-spacing: 0.02em;
+    margin-bottom: 0.4rem;
+}
+
+.people-title {
+    font-family: var(--font-sans);
+    font-size: 2.5rem;
+    font-weight: 300;
+    color: #18181b;
+    letter-spacing: -0.015em;
+    line-height: 1.15;
+}
+
+.link-all-scientists {
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    font-weight: 400;
+    color: #71717a;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    transition: var(--transition);
+}
+
+.link-all-scientists:hover {
+    color: #09090b;
+    gap: 0.65rem;
+}
+
+.people-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+}
+
+.theorist-card {
+    background: transparent;
+    cursor: pointer;
+    transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.theorist-photo {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1 / 1.26;
+    overflow: hidden;
+    background: #000000;
+    border: 2px solid transparent;
+    box-sizing: border-box;
+    transition: border-color 0.3s cubic-bezier(0.16, 1, 0.3, 1),
+                box-shadow 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Default state: DESATURATED (grayscale 100%) */
+.theorist-photo img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+    filter: grayscale(100%) contrast(1.08) brightness(0.96);
+    transition: filter 0.35s cubic-bezier(0.16, 1, 0.3, 1),
+                transform 0.35s cubic-bezier(0.16, 1, 0.3, 1);
+    display: block;
+}
+
+/* Hover state: FULL COLOR, Electric Blue Border & subtle lift */
+.theorist-card:hover {
+    transform: translateY(-4px);
+}
+
+.theorist-card:hover .theorist-photo {
+    border-color: #0070f3;
+    box-shadow: 0 12px 28px rgba(0, 112, 243, 0.28);
+}
+
+.theorist-card:hover .theorist-photo img {
+    filter: grayscale(0%) contrast(1.02) brightness(1.02);
+    transform: scale(1.035);
+}
+
+.theorist-meta {
+    padding-top: 1rem;
+}
+
+.theorist-name {
+    font-family: var(--font-sans);
+    font-size: 1.35rem;
+    font-weight: 500;
+    color: #18181b;
+    letter-spacing: -0.01em;
+    margin: 0 0 0.45rem 0;
+}
+
+.theorist-sub-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: var(--font-sans);
+    font-size: 0.72rem;
+    letter-spacing: 0.08em;
+    color: #71717a;
+}
+
+.theorist-role {
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.theorist-lifespan {
+    font-weight: 400;
+}
+
+/* ==============================================================
+   SECTION: WHERE THE DISCOVERIES ACTUALLY HAPPENED (Dark #000000)
+   ============================================================== */
+.section-deep-science {
+    background: #000000;
+    padding: 6rem 0 6.5rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.discoveries-header {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin-bottom: 3rem;
+}
+
+.discoveries-kicker {
+    font-family: var(--font-sans);
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: #71717a;
+    letter-spacing: 0.02em;
+    margin-bottom: 0.4rem;
+}
+
+.discoveries-title {
+    font-family: var(--font-sans);
+    font-size: 2.35rem;
+    font-weight: 300;
+    color: #ffffff;
+    letter-spacing: -0.015em;
+    line-height: 1.15;
+}
+
+.cards-grid-3 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.75rem;
+}
+
+.science-card {
+    background: #000000;
+    border: 1px solid rgba(255, 255, 255, 0.14);
+    border-radius: 4px;
+    padding: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: var(--transition);
+    cursor: pointer;
+}
+
+.science-card:hover {
+    border-color: rgba(255, 255, 255, 0.45);
+    transform: translateY(-4px);
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.6);
+}
+
+.science-banner {
+    width: 100%;
+    aspect-ratio: 3.2 / 1;
+    overflow: hidden;
+    border-radius: 2px;
+    background: #111115;
+    margin-bottom: 1.1rem;
+}
+
+.science-banner img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.4s ease;
+}
+
+.science-card:hover .science-banner img {
+    transform: scale(1.04);
+}
+
+.science-body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.science-subtitle {
+    font-family: var(--font-sans);
+    font-size: 0.72rem;
+    font-weight: 500;
+    color: #71717a;
+    letter-spacing: 0.03em;
+    margin-bottom: 0.45rem;
+}
+
+.science-card-title {
+    font-family: var(--font-sans);
+    font-size: 1.15rem;
+    font-weight: 500;
+    color: #ffffff;
+    line-height: 1.3;
+    margin-bottom: 0.45rem;
+    letter-spacing: -0.01em;
+}
+
+.science-meta {
+    font-family: var(--font-sans);
+    font-size: 0.72rem;
+    color: #71717a;
+    margin-bottom: 0.85rem;
+}
+
+.science-card-desc {
+    font-family: var(--font-sans);
+    font-size: 0.78rem;
+    color: #a1a1aa;
+    line-height: 1.55;
+    margin-bottom: 1.25rem;
+    flex: 1;
+}
+
+.science-read-link {
+    font-family: var(--font-sans);
+    font-size: 0.75rem;
+    font-weight: 500;
+    color: #d4d4d8;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    transition: var(--transition);
+}
+
+.science-card:hover .science-read-link {
+    color: #ffffff;
+    gap: 0.65rem;
+}
+
+/* ==============================================================
+   SECTION: EVERY FIELD CONNECTS TO ANOTHER (White #ffffff)
+   ============================================================== */
+.section-connect {
+    background: #ffffff;
+    color: #09090b;
+    padding: 6rem 0 6.5rem;
+    border-bottom: 1px solid #e4e4e7;
+}
+
+.connect-grid {
+    display: grid;
+    grid-template-columns: 1.05fr 0.95fr;
+    gap: 3.5rem;
+    align-items: center;
+}
+
+.connect-left {
+    max-width: 520px;
+}
+
+.connect-kicker {
+    font-family: var(--font-sans);
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: #71717a;
+    letter-spacing: 0.02em;
+    margin-bottom: 0.5rem;
+}
+
+.connect-title {
+    font-family: var(--font-sans);
+    font-size: 2.35rem;
+    font-weight: 300;
+    color: #18181b;
+    line-height: 1.18;
+    letter-spacing: -0.015em;
+    margin-bottom: 1.25rem;
+}
+
+.connect-desc {
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    line-height: 1.68;
+    color: #52525b;
+    margin-bottom: 2rem;
+}
+
+.btn-explore-research-black {
+    background: #000000;
+    color: #ffffff;
+    font-family: var(--font-sans);
+    font-size: 0.82rem;
+    font-weight: 500;
+    padding: 0.68rem 1.45rem;
+    border-radius: 4px;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: var(--transition);
+}
+
+.btn-explore-research-black:hover {
+    background: #27272a;
+    gap: 0.75rem;
+    transform: translateY(-1px);
+}
+
+.orbits-container {
+    background: #000000;
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 280px;
+}
+
+.orbits-video {
+    width: 100%;
+    height: auto;
+    max-height: 420px;
+    display: block;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+.orbits-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* ==============================================================
+   SECTION: POPULAR SCIENCE BOOKS (Dark #000000 — matching mockup)
+   ============================================================== */
+.section-books {
+    background: #000000;
+    padding: 6.5rem 0 7rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    position: relative;
+    overflow: hidden;
+}
+
+/* Atmospheric subtle cosmic glow behind books */
+.section-books::before {
+    content: '';
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -20%);
+    width: 900px;
+    height: 480px;
+    background: radial-gradient(ellipse at center, rgba(0, 112, 243, 0.06) 0%, rgba(0, 0, 0, 0) 70%);
+    pointer-events: none;
+    z-index: 0;
+}
+
+.books-header {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    margin-bottom: 3.5rem;
+    position: relative;
+    z-index: 1;
+}
+
+.books-kicker {
+    font-family: var(--font-sans);
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: #71717a;
+    letter-spacing: 0.02em;
+    margin-bottom: 0.4rem;
+}
+
+.books-title {
+    font-family: var(--font-sans);
+    font-size: 2.35rem;
+    font-weight: 300;
+    color: #ffffff;
+    letter-spacing: -0.015em;
+    line-height: 1.15;
+}
+
+.books-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 3.25rem 1.85rem;
+    position: relative;
+    z-index: 1;
+}
+
+/* Individual Book Item Container with 3D perspective */
+.book-item {
+    perspective: 1200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    cursor: pointer;
+    position: relative;
+    padding: 0.75rem;
+    border-radius: 12px;
+    background: transparent;
+    transition: background 0.35s ease, box-shadow 0.35s ease;
+}
+
+.book-item:hover {
+    background: rgba(255, 255, 255, 0.025);
+}
+
+.book-cover-wrap {
+    width: 100%;
+    height: 255px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1.35rem;
+    position: relative;
+    transform-style: preserve-3d;
+}
+
+/* Floor contact shadow underneath each book */
+.book-ground-shadow {
+    position: absolute;
+    bottom: 2px;
+    left: 14%;
+    width: 72%;
+    height: 14px;
+    background: radial-gradient(ellipse at center, rgba(0, 0, 0, 0.95) 0%, rgba(0, 0, 0, 0) 70%);
+    filter: blur(5px);
+    border-radius: 50%;
+    transition: transform 0.45s cubic-bezier(0.16, 1, 0.3, 1),
+                opacity 0.45s ease,
+                filter 0.45s ease;
+    pointer-events: none;
+    z-index: 1;
+}
+
+/* Idle Breathing Floating Animation Keyframes */
+@keyframes bookIdleFloat {
+    0%, 100% {
+        transform: translateY(0px) rotateY(-2deg);
+    }
+    50% {
+        transform: translateY(-8px) rotateY(-4deg);
+    }
+}
+
+/* 3D Standing Book Cover PNG */
+.book-cover-img {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+    object-fit: contain;
+    filter: drop-shadow(0 14px 22px rgba(0, 0, 0, 0.85));
+    transition: transform 0.45s cubic-bezier(0.16, 1, 0.3, 1),
+                filter 0.45s cubic-bezier(0.16, 1, 0.3, 1);
+    transform-origin: center bottom;
+    user-select: none;
+    -webkit-user-drag: none;
+    position: relative;
+    z-index: 2;
+    will-change: transform, filter;
+}
+
+/* Staggered idle floating for alive bookshelf presence */
+.book-item:nth-child(1) .book-cover-img { animation: bookIdleFloat 6.2s ease-in-out infinite 0s; }
+.book-item:nth-child(2) .book-cover-img { animation: bookIdleFloat 6.2s ease-in-out infinite 0.6s; }
+.book-item:nth-child(3) .book-cover-img { animation: bookIdleFloat 6.2s ease-in-out infinite 1.2s; }
+.book-item:nth-child(4) .book-cover-img { animation: bookIdleFloat 6.2s ease-in-out infinite 1.8s; }
+.book-item:nth-child(5) .book-cover-img { animation: bookIdleFloat 6.2s ease-in-out infinite 2.4s; }
+.book-item:nth-child(6) .book-cover-img { animation: bookIdleFloat 6.2s ease-in-out infinite 0.3s; }
+.book-item:nth-child(7) .book-cover-img { animation: bookIdleFloat 6.2s ease-in-out infinite 0.9s; }
+.book-item:nth-child(8) .book-cover-img { animation: bookIdleFloat 6.2s ease-in-out infinite 1.5s; }
+.book-item:nth-child(9) .book-cover-img { animation: bookIdleFloat 6.2s ease-in-out infinite 2.1s; }
+.book-item:nth-child(10) .book-cover-img { animation: bookIdleFloat 6.2s ease-in-out infinite 2.7s; }
+
+/* Dynamic Glare Specular Sheen */
+.book-glare {
+    position: absolute;
+    inset: 0;
+    border-radius: 6px;
+    background: radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.22) 0%, rgba(255, 255, 255, 0) 65%);
+    opacity: 0;
+    pointer-events: none;
+    mix-blend-mode: overlay;
+    transition: opacity 0.35s ease;
+    z-index: 3;
+}
+
+/* Smooth Slide-Up Elevation Animation on Hover */
+.book-item:hover .book-cover-img {
+    animation-play-state: paused;
+    transform: translateY(-16px) scale(1.05) rotateY(-4deg);
+    filter: drop-shadow(0 28px 42px rgba(0, 0, 0, 0.98))
+            drop-shadow(0 12px 24px rgba(0, 112, 243, 0.32));
+}
+
+.book-item:hover .book-ground-shadow {
+    transform: scale(0.82) translateY(8px);
+    opacity: 0.35;
+    filter: blur(10px);
+}
+
+.book-item:hover .book-glare {
+    opacity: 0.85;
+}
+
+.book-meta {
+    padding-top: 0.25rem;
+    position: relative;
+    z-index: 2;
+}
+
+.book-title-caption {
+    font-family: var(--font-sans);
+    font-size: 0.84rem;
+    font-weight: 500;
+    color: #e4e4e7;
+    letter-spacing: -0.01em;
+    line-height: 1.35;
+    margin-bottom: 0.25rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: color 0.25s ease, text-shadow 0.25s ease;
+}
+
+.book-item:hover .book-title-caption {
+    color: #ffffff;
+    text-shadow: 0 0 12px rgba(255, 255, 255, 0.35);
+}
+
+.book-author-caption {
+    font-family: var(--font-sans);
+    font-size: 0.72rem;
+    color: #71717a;
+    margin-bottom: 0.65rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    transition: color 0.25s ease;
+}
+
+.book-item:hover .book-author-caption {
+    color: #a1a1aa;
+}
+
+.book-price-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-family: var(--font-sans);
+    font-size: 0.75rem;
+    color: #0070f3;
+    padding-top: 0.5rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    transition: border-color 0.3s ease, background 0.25s ease;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.book-price-row:hover {
+    background: rgba(0, 112, 243, 0.08);
+}
+
+.book-item:hover .book-price-row {
+    border-color: rgba(56, 189, 248, 0.35);
+}
+
+.book-price {
+    font-weight: 600;
+    color: #0070f3;
+    padding: 0.18rem 0.5rem;
+    border-radius: 4px;
+    background: rgba(0, 112, 243, 0.08);
+    transition: color 0.25s ease, background 0.25s ease, box-shadow 0.25s ease;
+}
+
+.book-item:hover .book-price,
+.book-price-row:hover .book-price {
+    color: #38bdf8;
+    background: rgba(56, 189, 248, 0.16);
+    box-shadow: 0 0 12px rgba(56, 189, 248, 0.4);
+}
+
+.book-arrow {
+    color: #0070f3;
+    font-size: 0.76rem;
+    font-weight: 600;
+    font-family: var(--font-mono);
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    letter-spacing: 0.04em;
+    transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), color 0.25s ease;
+}
+
+.book-item:hover .book-arrow,
+.book-price-row:hover .book-arrow {
+    color: #38bdf8;
+    transform: translateX(4px);
+}
+
+/* ==============================================================
+   SECTION: CALL TO ACTION (Crisp White #ffffff)
+   ============================================================== */
+.section-cta {
+    background: #ffffff;
+    color: #09090b;
+    padding: 7rem 0;
+    text-align: center;
+}
+
+.cta-box {
+    max-width: 780px;
+    margin: 0 auto;
+}
+
+.cta-title {
+    font-family: var(--font-serif);
+    font-size: 2.85rem;
+    font-weight: 700;
+    line-height: 1.25;
+    text-transform: uppercase;
+    margin-bottom: 1.5rem;
+}
+
+.cta-subtitle {
+    font-family: 'Georgia', serif;
+    font-size: 1.15rem;
+    color: #52525b;
+    margin-bottom: 2.75rem;
+}
+
+/* ==============================================================
+   FOOTER (Deep Obsidian Black)
+   ============================================================== */
+.zahn-footer {
+    background: #020203;
+    border-top: 1px solid var(--border-dark);
+    padding: 5.5rem 0 2.5rem;
+    color: var(--text-light-muted);
+}
+
+.footer-columns {
+    display: grid;
+    grid-template-columns: 1.6fr 1fr 1fr 1fr 1fr;
+    gap: 3rem;
+    margin-bottom: 4rem;
+}
+
+.footer-bio p {
+    font-size: 0.85rem;
+    line-height: 1.7;
+    margin-top: 1rem;
+    color: var(--text-light-dim);
+}
+
+.footer-col h4 {
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: #ffffff;
+    margin-bottom: 1.5rem;
+}
+
+.footer-col ul {
+    list-style: none;
+}
+
+.footer-col li {
+    margin-bottom: 0.75rem;
+}
+
+.footer-col a {
+    font-size: 0.85rem;
+    color: var(--text-light-dim);
+}
+
+.footer-col a:hover {
+    color: #ffffff;
+}
+
+.footer-bar {
+    border-top: 1px solid rgba(255, 255, 255, 0.08);
+    padding-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.8rem;
+    color: var(--text-light-dim);
+    font-family: var(--font-mono);
+}
+
+/* ==============================================================
+   RESPONSIVE QUERIES
+   ============================================================== */
+@media (max-width: 1024px) {
+    .hero-grid, .newton-grid, .connect-grid {
+        grid-template-columns: 1fr;
+        gap: 3rem;
+    }
+    .subjects-grid, .people-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .cards-grid-3 {
+        grid-template-columns: 1fr;
+    }
+    .books-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .footer-columns {
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 768px) {
+    .nav-menu, .nav-cta {
+        display: none;
+    }
+    .nav-mobile-btn {
+        display: block;
+    }
+    .hero-title {
+        font-size: 2.75rem;
+    }
+    .newton-title, .connect-title, .cta-title {
+        font-size: 2.1rem;
+    }
+    .subjects-grid, .people-grid {
+        grid-template-columns: 1fr;
+    }
+    .books-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2rem 1.25rem;
+    }
+    .footer-columns {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 480px) {
+    .books-grid {
+        grid-template-columns: 1fr;
+        gap: 2.5rem 1rem;
+    }
+}

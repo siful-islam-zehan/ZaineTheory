@@ -1,0 +1,589 @@
+{
+  "sync_time": "2026-11-11T18:11:47.570421Z",
+  "theorists": [
+    {
+      "slug": "newton",
+      "name": "Isaac Newton",
+      "wiki_title": "Isaac Newton",
+      "role": "MATHEMATICIAN & PHYSICIST",
+      "lifespan": "1642 - 1727",
+      "image": "assets/images/scientist-newton.jpg",
+      "key_discovery": "Universal Gravitation, Laws of Motion, Infinitesimal Calculus & Optics",
+      "quote": "If I have seen further, it is by standing on the shoulders of giants.",
+      "summary": "Sir Isaac Newton was an English polymath who was a mathematician, physicist, astronomer, alchemist, theologian, historian and inventor. He was a key figure in the Scientific Revolution and the Enlightenment that followed. His book Philosophiæ Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy), first published in 1687, achieved the first great unification in physics and established classical mechanics. Newton also made seminal contributions to optics, and shares credit with the German mathematician Gottfried Wilhelm Leibniz for formulating infinitesimal calculus, although he developed calculus years before Leibniz. Newton contributed to and refined the scientific method, and his work is considered the most influential in bringing forth modern science. In the Principia, Newton formulated the laws of motion and universal gravitation that formed the dominant scientific viewpoint for centuries until it was superseded by the theory of relativity. While this is the case, his laws still serve as sufficient approximations for all physical phenomena involving low speeds (much less than the speed of light) and weak gravitational fields. He used his mathematical description of gravity to derive Kepler's laws of planetary motion, account for tides, the trajectories of comets, the precession of the equinoxes and other phenomena, eradicating doubt about the Solar System's heliocentricity. Newton solved the two-body problem and introduced the three-body problem. He demonstrated that the motion of objects on Earth and celestial bodies could be accounted for by the same principles. Newton's inference that the Earth is an oblate spheroid was subsequently confirmed by the geodetic measurements of Pierre Louis Maupertuis, Alexis Clairaut, Charles Marie de La Condamine, and others, convincing most European scientists of the superiority of Newtonian mechanics over earlier systems. He was also the first to calculate the age of Earth by experiment, and described a precursor to the modern wind tunnel. Further, he was the first to provide a quantitative estimate of the solar mass. Newton built the first reflecting telescope and developed a sophisticated theory of colour based on the observation that a prism separates white light into the colours of the visible spectrum. His work on light was collected in his book Opticks, published in 1704. He originated prisms as beam expanders and multiple-prism arrays, which would later become integral to the development of tunable lasers. Newton also formulated an empirical law of cooling, which was the first heat transfer formulation and serves as the formal basis of convective heat transfer, made the first theoretical calculation of the speed of sound, and introduced the notions of a Newtonian fluid and a black body. He was also the first to explain the Magnus effect. Moreover, he was the first to analyse Couette flow. In addition to his creation of calculus, Newton's work on mathematics was extensive. He generalised the binomial theorem to any real number, introduced the Puiseux series, was the first to state Bézout's theorem, classified most of the cubic plane curves, contributed to the study of Cremona transformations, developed a method for approximating the roots of a function, originated the Newton–Cotes formulas used for numerical integration, and further produced the earliest explicit enunciation of the general Taylor series. Additionally, Newton initiated the field of calculus of variations, formulated and solved the earliest problem in geometric probability, devised the earliest form of linear regression, and was a pioneer of vector analysis. Newton was a fellow of Trinity College and the second Lucasian Professor of Mathematics at the University of Cambridge; he was appointed at the age of 26. He was a devout but heterodox Christian who privately rejected the doctrine of the Trinity. He refused to take holy orders in the Church of England, unlike most members of the Cambridge faculty of the day. Beyond his work on the mathematical sciences, Newton dedicated much of his time to the study of alchemy and biblical chronology, but most of his work in those areas remained unpublished until long after his death. Politically and personally tied to the Whigs, Newton served two brief terms as Member of Parliament for the University of Cambridge, in 1689–1690 and 1701–1702. He was knighted by Queen Anne in 1705 and spent the last three decades of his life in London, serving as Warden (1696–1699) and Master (1699–1727) of the Royal Mint, in which he increased the accuracy and security of British coinage. He was also the president of the Royal Society (1703–1727). He died at the age of 84 and was the first scientist to be buried at Westminster Abbey.",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Isaac_Newton",
+      "sections": [
+        {
+          "title": "Early life",
+          "preview": "Isaac Newton was born (according to the Julian calendar in use in England at the time) on Christmas Day, 25 December 1642 (NS 4 January 1643) at Woolsthorpe Manor in Woolsthorpe-by-Colsterworth, a hamlet in Lincolnshire. His father, also named Isaac Newton, had died three months before. Born prematurely, Newton was a small child; his mother, Hannah Ayscough, said that he could have fit inside a qu"
+        },
+        {
+          "title": "Scientific studies",
+          "preview": ""
+        },
+        {
+          "title": "Later life",
+          "preview": ""
+        },
+        {
+          "title": "Personality",
+          "preview": "Newton has been described as an incredibly driven and disciplined man who dedicated his life to his work. He is known for having a prodigious appetite for work, which he prioritised above his personal health. He maintained strict control over his physical appetites, being sparing with food and drink; contemporary accounts report that he refused to eat rabbits because they were strangled and avoide"
+        }
+      ]
+    },
+    {
+      "slug": "einstein",
+      "name": "Albert Einstein",
+      "wiki_title": "Albert Einstein",
+      "role": "THEORETICAL PHYSICIST",
+      "lifespan": "1879 - 1955",
+      "image": "assets/images/scientist-einstein.jpg",
+      "key_discovery": "Special & General Relativity, Mass-Energy Equivalence (E=mc²), Photoelectric Effect",
+      "quote": "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world.",
+      "summary": "Albert Einstein (14 March 1879 – 18 April 1955) was a German-born theoretical physicist best known for developing the theory of relativity. Einstein also made important contributions to quantum theory. His mass–energy equivalence formula E = mc2, which arises from special relativity, has been called \"the world's most famous equation\". He received the 1921 Nobel Prize in Physics for \"his services to theoretical physics, and especially for his discovery of the law of the photoelectric effect\". Born as a subject to the Kingdom of Württemberg, part of the German Empire, which he later renounced on 28 January 1896, just 6 weeks before he turned 17, avoiding conscription into military service. The familiy moved to Munich in 1880, where he grew up and attended primary, lower and higher secondary schools. In 1895, he moved to Pavia, Italy, to stay with his family which moved there an year earlier and then further to Swiss canton of Aargau to attend a final year in gymnasium in Aarau. In 1896, at the age of seventeen, he enrolled in the mathematics and physics teaching diploma program at the Swiss federal polytechnic school in Zurich, graduating in 1900. He acquired Swiss citizenship a year later, which he kept for the rest of his life, and afterwards secured a permanent position at the Swiss Patent Office in Bern. In 1905, he submitted a successful PhD dissertation to the University of Zurich. In 1914, he moved to Berlin to join the Prussian Academy of Sciences and the Humboldt University of Berlin, becoming director of the Kaiser Wilhelm Institute for Physics in 1917; he also became a Prussian and consequently also German citizen again. In 1933, while Einstein was visiting the United States, Adolf Hitler came to power in Germany. Horrified by the Nazi persecution of his fellow Jews, he decided to remain in the US, and was granted American citizenship in 1940. On the eve of World War II, he endorsed a letter to President Franklin D. Roosevelt alerting him to the potential German nuclear weapons program and recommending that the US begin similar research, later carried out as the Manhattan Project. In 1905, sometimes described as his annus mirabilis (miracle year), he published four groundbreaking papers. In them, he outlined a theory of the photoelectric effect, explained Brownian motion, introduced his special theory of relativity, and demonstrated that if the special theory is correct, mass and energy are equivalent to each other. In 1915, he proposed a general theory of relativity that extended his system of mechanics to incorporate gravitation. A paper that he published the following year laid out the implications of general relativity for the modeling of the structure and evolution of the universe as a whole. It introduced the cosmological constant and is further regarded as the first step in the field of modern theoretical cosmology. In 1917, Einstein wrote a paper which introduced the concepts of spontaneous emission and stimulated emission, the latter of which is the core mechanism behind the laser and maser, and which contained a trove of information that would be beneficial to developments in physics later on, such as quantum electrodynamics and quantum optics. In the middle part of his career, Einstein made important contributions to statistical mechanics and quantum theory. Especially notable was his work on the quantum physics of radiation, in which light consists of particles, subsequently called photons. With physicist Satyendra Nath Bose, he laid the groundwork for Bose–Einstein statistics. For much of the last phase of his academic life, Einstein worked on two endeavors that ultimately proved unsuccessful. First, he advocated against quantum theory's introduction of fundamental randomness into science's picture of the world, objecting that \"God does not play dice\". Second, he attempted to devise a unified field theory by generalizing his geometric theory of gravitation to include electromagnetism. As a result, he became increasingly isolated from mainstream modern physics. Many things are named after him, including the element Einsteinium. In 1999, he was named Time's Person of the Century.",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Albert_Einstein",
+      "sections": [
+        {
+          "title": "Life and career",
+          "preview": ""
+        },
+        {
+          "title": "Scientific career",
+          "preview": "Throughout his life, Einstein published hundreds of books and articles. He published more than 300 scientific papers and 150 non-scientific ones. On 5 December 2014, universities and archives announced the release of Einstein's papers, comprising more than 30,000 unique documents. In addition to the work he did by himself, he also collaborated with other scientists on additional projects, includin"
+        },
+        {
+          "title": "Legacy",
+          "preview": ""
+        },
+        {
+          "title": "In popular culture",
+          "preview": "Einstein became one of the most famous scientific celebrities after the confirmation of his general theory of relativity in 1919. Although most of the public had little understanding of his work, he was widely recognized and admired. In the period before World War II, The New Yorker published a vignette in their \"The Talk of the Town\" feature saying that Einstein was so well known in America that"
+        }
+      ]
+    },
+    {
+      "slug": "curie",
+      "name": "Marie Curie",
+      "wiki_title": "Marie Curie",
+      "role": "PHYSICIST & CHEMIST",
+      "lifespan": "1867 - 1934",
+      "image": "assets/images/scientist-curie.jpg",
+      "key_discovery": "Pioneering Research on Radioactivity, Discovery of Polonium and Radium, Two Nobel Prizes",
+      "quote": "Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.",
+      "summary": "Maria Salomea Skłodowska Curie, better known as Marie Curie, was a Polish and naturalised-French physicist and chemist. She shared the 1903 Nobel Prize in Physics with her husband, Pierre Curie, \"for their joint researches on the radioactivity phenomena discovered by Professor Henri Becquerel\". She won the 1911 Nobel Prize in Chemistry \"[for] the discovery of the elements radium and polonium, by the isolation of radium and the study of the nature and compounds of this remarkable element\". Curie was the first woman to win a Nobel Prize, the first person to win a Nobel Prize twice and the only person to win a Nobel Prize in two different scientific fields. She and Pierre were the first married couple to win the Nobel Prize, launching the Curie family legacy of five Nobel Prizes. She was, in 1906, the first woman to become a professor at the University of Paris. Curie was born in Warsaw, Russian Empire, where she studied at the clandestine Flying University and began her practical scientific training. In 1891, Curie followed her elder sister Bronisława to study in Paris, where she earned her higher degrees and conducted her subsequent scientific work. In 1895, Curie married Pierre, with whom she conducted pioneering research on radioactivity—a term she coined. Pierre died in 1906 in a Paris street accident. Under Curie's direction, the world's first studies were conducted into the treatment of neoplasms by the use of radioactive isotopes. She founded the Curie Institute in Paris in 1920, and the Curie Institute in Warsaw in 1932; both remain major medical research centres. During the First World War, she developed mobile radiography units to provide X-ray services to field hospitals. While a French citizen, Curie, who used both surnames, never lost her sense of Polish identity. She taught her daughters the Polish language and took them on visits to Poland. She named the first chemical element she and Pierre discovered polonium, after her native country. Curie died in 1934, aged 66, at the Sancellemoz sanatorium in Passy, Haute-Savoie, France, of aplastic anaemia likely from exposure to radiation in the course of her scientific research and in the course of her radiological work at field hospitals during the First World War. In addition to her Nobel Prizes, she received numerous other honours and tributes; in 1995, she became the first woman to be entombed on her own merits in the Paris Panthéon, and Poland declared 2011 the Year of Marie Curie during the International Year of Chemistry. Curie is the subject of numerous biographies, including Madame Curie by her daughter Ève. The synthetic element curium is named in her honour.",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Marie_Curie",
+      "sections": [
+        {
+          "title": "Life and career",
+          "preview": ""
+        },
+        {
+          "title": "Legacy",
+          "preview": "The physical and societal aspects of the Curies' work contributed to shaping the world of the twentieth and twenty-first centuries. Curie's work laid the foundation for modern nuclear physics, cancer treatments, and radiography. Her techniques for isolating radioactive isotopes are still used in research and medicine.  Cornell University professor L. Pearce Williams observes:\n\nThe result of the Cu"
+        },
+        {
+          "title": "Commemorations",
+          "preview": "As one of the most famous scientists in history, Marie Curie has become an icon in the scientific world and has received tributes from across the globe, even in the realm of pop culture. She also received many honorary degrees from universities across the world.\nMarie Curie was the first woman to win a Nobel Prize, the first person to win two Nobel Prizes, the only woman to win in two fields, and"
+        }
+      ]
+    },
+    {
+      "slug": "darwin",
+      "name": "Charles Darwin",
+      "wiki_title": "Charles Darwin",
+      "role": "NATURALIST & BIOLOGIST",
+      "lifespan": "1809 - 1882",
+      "image": "assets/images/scientist-darwin.jpg",
+      "key_discovery": "Theory of Evolution by Natural Selection, Common Descent, On the Origin of Species",
+      "quote": "It is not the strongest of the species that survives, nor the most intelligent, but the one most responsive to change.",
+      "summary": "Charles Robert Darwin was an English naturalist, geologist, and biologist, widely known for his contributions to evolutionary biology. His proposition that all species have descended from a common ancestor is now accepted and considered a fundamental scientific concept. In a joint presentation with Alfred Russel Wallace, he proposed that this branching pattern of evolution resulted from a process he called natural selection, in which the struggle for existence has a similar effect to the artificial selection involved in selective breeding. Darwin has been described as one of the most influential figures in human history and was honoured by burial in Westminster Abbey. Darwin's early interest in nature led him to neglect his medical education at the University of Edinburgh; instead, he helped Robert Edmond Grant to investigate marine invertebrates. His studies at the University of Cambridge's Christ's College from 1828 to 1831 encouraged his passion for natural science. However, it was his five-year voyage on HMS Beagle from 1831 to 1836 that established Darwin as an eminent geologist. The observations he made during his voyage supported Charles Lyell's concept of gradual geological change. The Voyage of the Beagle (1839), Darwin's travel journal, made him a popular author. His first scientific work was The Structure and Distribution of Coral Reefs (1842). Along with his work on barnacles, it won him the Royal Medal in 1853. Puzzled by the geographical distribution of wildlife and fossils he collected on the voyage, Darwin began detailed investigations and, in 1838, devised his theory of natural selection. Although he discussed his ideas with several naturalists, he needed time for extensive research, and his geological work had priority. He was writing up his theory in 1858 when Wallace sent him an essay outlining the same idea, prompting the joint submission of \"On the Tendency of Species to form Varieties; and on the Perpetuation of Varieties and Species by Natural Means of Selection\" to the Linnean Society of London. Darwin's work established descent with modification as the scientific explanation of natural diversity. Darwin published his theory of evolution with compelling evidence in On the Origin of Species (1859). He explored coevolution in Fertilisation of Orchids (1862) and human evolution and sexual selection in The Descent of Man, and Selection in Relation to Sex (1871). The Expression of the Emotions in Man and Animals (1872) was an early work of psychology, and one of the first books to feature photographs. His final book was The Formation of Vegetable Mould, through the Actions of Worms (1881). By the 1870s, the scientific community and a majority of the educated public had accepted evolution as a fact. However, many initially favoured competing explanations that gave only a minor role to natural selection. It was not until the emergence of the modern evolutionary synthesis from the 1930s to the 1950s that a broad consensus developed in which natural selection was the basic mechanism of evolution. Darwin's discovery is the unifying theory of the life sciences, explaining the unity and diversity of life.",
+      "wikipedia_url": "https://en.wikipedia.org/wiki/Charles_Darwin",
+      "sections": [
+        {
+          "title": "Biography",
+          "preview": ""
+        },
+        {
+          "title": "Children",
+          "preview": "The Darwins had ten children: two died in infancy, and Annie's death at the age of ten had a devastating effect on her parents. Charles was a devoted father and uncommonly attentive to his children. Whenever they fell ill, he feared that they might have inherited weaknesses from inbreeding due to the close family ties he shared with his wife and cousin, Emma Wedgwood. He examined inbreeding in his"
+        },
+        {
+          "title": "Views and opinions",
+          "preview": ""
+        },
+        {
+          "title": "Evolutionary social movements",
+          "preview": "Darwin's fame and popularity led to his name being associated with ideas and movements that, at times, had only an indirect relation to his writings, and sometimes went directly against his express comments.\nThomas Malthus had argued that population growth beyond resources was ordained by God to get humans to work productively and show restraint in getting families; this was used in the 1830s to j"
+        }
+      ]
+    }
+  ],
+  "researches": [
+    {
+      "slug": "quantum-entanglement",
+      "title": "Quantum Entanglement and Bell's Inequality",
+      "wiki_title": "Quantum entanglement",
+      "secondary_wiki": "Bell's theorem",
+      "category": "Physics • Quantum Mechanics",
+      "author_names": "Alain Aspect, John Clauser, Anton Zeilinger (Nobel 2022)",
+      "year": "1982 / 2022",
+      "research_type": "Experimental",
+      "banner_img": "assets/images/quantum-banner.jpg",
+      "equation": "|Ψ⟩ = (|00⟩ + |11⟩) / √2   |   |⟨QS⟩ + ⟨RS⟩ + ⟨RT⟩ - ⟨QT⟩| ≤ 2",
+      "summary": "Quantum entanglement is the phenomenon in which the quantum state of each particle in a group cannot be described independently of the state of the others, even when the particles are separated by a large distance. The topic of quantum entanglement is at the heart of the disparity between classical physics and quantum physics: entanglement is a primary feature of quantum mechanics not present in classical mechanics. Measurements of physical properties such as position, momentum, spin, and polarization performed on entangled particles can, in some cases, be found to be perfectly correlated. For example, if a pair of entangled particles is generated such that their total spin is known to be zero, and one particle is found to have clockwise spin on a first axis, then the spin of the other particle, measured on the same axis, is found to be counterclockwise. This behavior gives rise to seemingly paradoxical effects: any measurement of a particle's properties results in an apparent and irreversible wave function collapse of that particle and changes the original quantum state. With entangled particles, such measurements affect the entangled system as a whole. However individual measurement outcomes cannot be controlled, so entanglement alone cannot be used to transmit information. Such phenomena were the subject of a 1935 paper by Albert Einstein, Boris Podolsky, and Nathan Rosen, and several papers by Erwin Schrödinger shortly thereafter, describing what came to be known as the EPR paradox. Einstein and others considered such behavior impossible, as it violated the local realism view of causality and argued that the accepted formulation of quantum mechanics must therefore be incomplete. Later, the counterintuitive predictions of quantum mechanics were verified in tests where polarization or spin of entangled particles were measured at separate locations, statistically violating Bell's inequality. This established that the correlations produced from quantum entanglement cannot be explained in terms of local hidden variables. Entanglement can produce statistical correlations between events in widely separated places, but it cannot be used for faster-than-light communication. Quantum entanglement has been demonstrated experimentally with photons, electrons, top quarks, molecules and even small diamonds. The use of quantum entanglement in communication and computation is an active area of research and development.",
+      "full_url": "https://en.wikipedia.org/wiki/Quantum_entanglement",
+      "sections": [
+        {
+          "title": "History",
+          "preview": "Albert Einstein and Niels Bohr engaged in a long-running collegial dispute over the interpretation of quantum mechanics, now known as the Bohr–Einstein debates. During these debates, Einstein introduced a thought experiment involving a box that emits a photon. He noted that the experimenter's choice of which measurement to make on the box would change what can be predicted about the photon, even w"
+        },
+        {
+          "title": "Concept",
+          "preview": ""
+        },
+        {
+          "title": "Nonlocality and entanglement",
+          "preview": "As discussed above, entanglement is necessary to produce a violation of a Bell inequality. However, the mere presence of entanglement alone is insufficient, as Bell himself noted in his 1964 paper. This is demonstrated, for example, by Werner states, which are a family of states describing pairs of particles. For some values of their defining parameter, Werner states are entangled but admit a loca"
+        },
+        {
+          "title": "Mathematical details",
+          "preview": "The following subsections use the formalism and theoretical framework developed in the articles bra–ket notation and mathematical formulation of quantum mechanics."
+        }
+      ]
+    },
+    {
+      "slug": "schrodinger-cat",
+      "title": "Schrödinger's Cat Paradox",
+      "wiki_title": "Schrödinger's cat",
+      "secondary_wiki": "Quantum superposition",
+      "category": "Physics • Quantum Mechanics",
+      "author_names": "Erwin Schrödinger",
+      "year": "1935",
+      "research_type": "Theoretical Thought Experiment",
+      "banner_img": "assets/images/schrodinger-banner.jpg",
+      "equation": "iℏ ∂/∂t |Ψ(t)⟩ = Ĥ |Ψ(t)⟩   |   |Ψ⟩ = 1/√2 (|Alive⟩ + |Dead⟩)",
+      "summary": "In quantum mechanics, Schrödinger's cat is a thought experiment concerning quantum superposition. In the thought experiment, a hypothetical cat inside a closed box may be considered to be simultaneously both alive and dead while it is unobserved, as a result of its fate being linked to a random subatomic event that may or may not occur. This experiment, viewed this way, is described as a paradox. This thought experiment was devised by physicist Erwin Schrödinger in 1935, in a discussion with Albert Einstein, to illustrate what Schrödinger saw as the problems of Niels Bohr and Werner Heisenberg's philosophical views on quantum mechanics. In Schrödinger's original formulation, a cat, a flask of poison, and a radioactive source are placed in a sealed box. If an internal radiation monitor such as a Geiger counter detects radioactivity (a single atom decaying), the flask is shattered, releasing the poison, which kills the cat. If no decaying atom triggers the monitor, the cat remains alive. Mathematically, the wave function that describes the contents of the box is a combination, or quantum superposition, of these two possibilities. Yet, when one looks in the box, one sees the cat either alive or dead, not both alive and dead. This poses the question of when exactly quantum superposition ends and reality resolves into one possibility or the other. Although originally a critique of Bohr and Heisenberg, Schrödinger's seemingly paradoxical thought experiment became part of the foundation of quantum mechanics. It is often featured in theoretical discussions of the interpretations of quantum mechanics, particularly in situations involving the measurement problem. As a result, Schrödinger's cat has had enduring appeal in popular culture. The experiment is not intended to be actually performed on a cat, but rather as an easily understandable illustration of the behavior of atoms. Experiments at the atomic scale have been carried out, showing that very small objects may exist as superpositions, but superposing an object as large as a cat would pose considerable technical difficulties. Fundamentally, the Schrödinger's cat experiment asks how long quantum superpositions last and when (or whether) they collapse. Different interpretations of the mathematics of quantum mechanics have been proposed that give different explanations for this process.",
+      "full_url": "https://en.wikipedia.org/wiki/Schr%C3%B6dinger%27s_cat",
+      "sections": [
+        {
+          "title": "Origin and motivation",
+          "preview": "Schrödinger intended his thought experiment as a discussion of the EPR article—named after its authors Einstein, Podolsky, and Rosen—in 1935. The EPR article highlighted the counterintuitive nature of quantum superpositions, in which a quantum system for two particles does not separate even when the particles are detected far from their last point of contact. The EPR paper concludes with a claim t"
+        },
+        {
+          "title": "Thought experiment",
+          "preview": "Schrödinger wrote:\n\nOne can contrive even completely burlesque [farcical] cases. A cat is put in a steel chamber along with the following infernal device (which must be secured against direct interference by the cat): in a Geiger counter, there is a tiny amount of radioactive substance, so tiny that in the course of an hour one of the atoms will perhaps decay, but also, with equal probability, tha"
+        },
+        {
+          "title": "Analysis",
+          "preview": "In modern terms Schrödinger's hypothetical cat experiment describes the measurement problem: quantum theory describes the cat system as a combination of two possible outcomes but only one outcome is ever observed. \nThe experiment poses the question, \"when does a quantum system stop existing as a superposition of states and become one or the other?\"  (More technically, when does the actual quantum"
+        },
+        {
+          "title": "Interpretations",
+          "preview": "Since Schrödinger's time, other interpretations of quantum mechanics have been proposed that give different answers to the questions posed by Schrödinger's cat of how long superpositions last and when (or whether) they collapse."
+        }
+      ]
+    },
+    {
+      "slug": "expanding-universe",
+      "title": "Observational Evidence for an Expanding Univ.",
+      "wiki_title": "Expansion of the universe",
+      "secondary_wiki": "Hubble's law",
+      "category": "Physics • Cosmology & Astrophysics",
+      "author_names": "Edwin Hubble, Georges Lemaître, Alexander Friedmann",
+      "year": "1929",
+      "research_type": "Observational Astronomy",
+      "banner_img": "assets/images/expanding-universe-banner.jpg",
+      "equation": "v = H₀ · D   |   (ȧ/a)² = (8πG/3)ρ - kc²/a² + Λc²/3",
+      "summary": "The expansion of the universe is the increase in distance between gravitationally unbound parts of the observable universe with time. It is an intrinsic expansion, so it does not mean that the universe expands into anything or that space exists outside it. To any observer in the universe, it appears that all but the nearest galaxies (which are bound to each other by gravity) move away at speeds that are proportional to their distance from the observer, on average. While objects cannot move faster than light, this limitation applies only with respect to local reference frames and does not limit the recession rates of cosmologically distant objects. The expansion of the universe was discovered by separate theoretical and observational work in the 1920s. Since then, the expansion has become a core aspect of the astrophysical field of cosmology. Many major scientific projects have sought to characterize the expansion and understand its effects. Cosmic expansion is a key feature of Big Bang cosmology. Within the theory of general relativity, it is modeled mathematically with the Friedmann–Lemaître–Robertson–Walker (FLRW) metric. The consensus or \"standard\" model of cosmology, the Lambda-CDM model, hypothesizes different expansion rates during different times, depending on the physical properties of the contents of spacetime. The very earliest expansion, called inflation, saw the universe suddenly expand by a factor of at least 1026 in every direction within about 10−32 seconds. Cosmic expansion subsequently decelerated to much slower rates, until around 9.8 billion years after the Big Bang (4 billion years ago) it began to gradually expand more quickly, and is still doing so. Physicists have postulated the existence of dark energy, appearing as a cosmological constant in the simplest gravitational models, as a way to explain this late-time acceleration which is predicted to be dominant in the future. The concept of the expansion of the universe is difficult to explain, leading to several misconceptions about its nature, origin, and effects.",
+      "full_url": "https://en.wikipedia.org/wiki/Expansion_of_the_universe",
+      "sections": [
+        {
+          "title": "History of the concept",
+          "preview": "In 1912–1914, Vesto Slipher discovered that light from remote galaxies was redshifted, a phenomenon later interpreted as galaxies receding from the Earth. In 1922, Alexander Friedmann used the Einstein field equations to provide theoretical evidence that the universe is expanding.\nThe key astronomical demonstration of the expansion of the universe is known as Hubble's law or sometimes as the Hubbl"
+        },
+        {
+          "title": "Structure of cosmic expansion",
+          "preview": "Distant galaxies in all directions are observed to move away from Earth and their velocity is proportional to their distance from Earth. This observation, known as Hubble's law, combined with the observation that the universe at the largest scales is homogeneous (the same everywhere) and isotropic (the same in all directions), means that the universe is expanding uniformly at the present time. Thi"
+        },
+        {
+          "title": "Dynamics of cosmic expansion",
+          "preview": "The expansion of the universe can be understood as resulting from an initial condition in which the contents of the universe are flying apart. The mutual gravitational attraction of the matter and radiation within the universe gradually slows this expansion over time, but their density is too low to prevent continued expansion. In addition, recent observational evidence suggests that dark energy i"
+        },
+        {
+          "title": "Distances in the expanding universe",
+          "preview": ""
+        }
+      ]
+    },
+    {
+      "slug": "law-of-newton",
+      "title": "Laws of Motion & Universal Gravitation",
+      "wiki_title": "Newton's laws of motion",
+      "secondary_wiki": "Philosophiæ Naturalis Principia Mathematica",
+      "category": "Physics • Classical Mechanics",
+      "author_names": "Sir Isaac Newton",
+      "year": "1687",
+      "research_type": "Foundational Physics",
+      "banner_img": "assets/images/newton-portrait-clean.png",
+      "equation": "F = m · a   |   F_g = G · (m₁ · m₂) / r²",
+      "summary": "Newton's laws of motion are three physical laws that describe the relationship between the motion of an object and the forces acting on it. These laws, which provide the basis for Newtonian mechanics, can be paraphrased as follows: A body remains at rest, or in motion at a constant speed in a straight line, unless it is acted upon by a force. At any instant of time, the net force on a body is equal to the body's acceleration multiplied by its mass or, equivalently, the rate at which the body's momentum is changing with time. If two bodies exert forces on each other, these forces have the same magnitude but opposite directions. The three laws of motion were first stated by Isaac Newton in his Philosophiæ Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy), originally published in 1687. Newton used them to investigate and explain the motion of many physical objects and systems. In the time since Newton, new insights, especially around the concept of energy, built the field of classical mechanics on his foundations. In modern times, limitations to Newton's laws have been discovered; new theories were consequently developed, such as quantum mechanics and relativity to address the physics of objects in more extreme cases.",
+      "full_url": "https://en.wikipedia.org/wiki/Newton%27s_laws_of_motion",
+      "sections": [
+        {
+          "title": "Prerequisites",
+          "preview": "Newton's laws are often stated in terms of point or particle masses, that is, bodies whose volume is negligible. This is a reasonable approximation for real bodies when the motion of internal parts can be neglected, and when the separation between bodies is much larger than the size of each. For instance, the Earth and the Sun can both be approximated as pointlike when considering the orbit of the"
+        },
+        {
+          "title": "Laws",
+          "preview": ""
+        },
+        {
+          "title": "Work and energy",
+          "preview": "The concept of energy was developed after Newton's time, but it has become an inseparable part of what is considered \"Newtonian\" physics. Energy can broadly be classified into kinetic, due to a body's motion, and potential, due to a body's position relative to others. Thermal energy, the energy carried by heat flow, is a type of kinetic energy not associated with the macroscopic motion of objects"
+        },
+        {
+          "title": "Rigid-body motion and rotation",
+          "preview": "A rigid body is an object whose size is too large to neglect and which maintains the same shape over time. In Newtonian mechanics, the motion of a rigid body is often understood by separating it into movement of the body's center of mass and movement around the center of mass."
+        }
+      ]
+    }
+  ],
+  "books": [
+    {
+      "slug": "book-hawking",
+      "title": "A Brief History of Time",
+      "wiki_title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "field": "Cosmology & Theoretical Physics",
+      "year": "1988",
+      "price": 18.0,
+      "cover_img": "assets/images/book-hawking.png",
+      "summary": "A Brief History of Time: From the Big Bang to Black Holes is a book on cosmology by the physicist Stephen Hawking, first published in 1988. Hawking writes in non-technical terms about the structure, origin, development and eventual fate of the universe. He talks about basic concepts like space and time, building blocks that make up the universe (such as quarks) and the fundamental forces that govern it (such as gravity). He discusses two theories, general relativity and quantum mechanics that form the foundation of modern physics. Finally, he talks about the search for a unified theory that consistently describes everything in the universe. The book became a bestseller and has sold more than 25 million copies in 40 languages. It was included on Time's list of the 100 best nonfiction books since the magazine's founding. Errol Morris made a documentary, A Brief History of Time (1991) which combines material from Hawking's book with interviews featuring Hawking, his colleagues, and his family. An illustrated version was published in 1996. In 2006, Hawking and Leonard Mlodinow published an abridged version, A Briefer History of Time.",
+      "full_url": "https://en.wikipedia.org/wiki/A_Brief_History_of_Time",
+      "sections": [
+        {
+          "title": "Publication",
+          "preview": "In 1983, Hawking approached Simon Mitton, the editor in charge of astronomy books at Cambridge University Press, with his ideas for a popular book on cosmology. Mitton was doubtful about all the equations in the draft manuscript, which he felt would put off the buyers in airport bookshops that Hawking wished to reach. In the acknowledgements, Hawking says he was warned that for every equation in t"
+        },
+        {
+          "title": "Contents",
+          "preview": ""
+        },
+        {
+          "title": "Editions",
+          "preview": "1988: The first edition included an introduction by Carl Sagan that tells the following story: Sagan was in London for a scientific conference in 1974, and between sessions he wandered into a different room, where a larger meeting was taking place. \"I realized that I was watching an ancient ceremony: the investiture of new fellows into the Royal Society, one of the most ancient scholarly organizat"
+        },
+        {
+          "title": "Adaptions",
+          "preview": ""
+        }
+      ],
+      "google_buy_url": "https://www.google.com/search?tbm=bks&q=buy+A+Brief+History+of+Time+Stephen+Hawking"
+    },
+    {
+      "slug": "book-carson",
+      "title": "Silent Spring",
+      "wiki_title": "Silent Spring",
+      "author": "Rachel Carson",
+      "field": "Ecology & Environmental Science",
+      "year": "1962",
+      "price": 18.0,
+      "cover_img": "assets/images/book-carson.png",
+      "summary": "Silent Spring is an environmental science book by Rachel Carson. Published on September 27, 1962, the book documented the environmental harm caused by the indiscriminate use of DDT, a pesticide used by soldiers during World War II. Carson accused the chemical industry of spreading disinformation and public officials of accepting the industry's marketing claims unquestioningly. In the late 1950s, Carson began to work on environmental conservation, especially environmental problems that she correctly believed were caused by synthetic pesticides. The result of her research was Silent Spring, which brought environmental concerns to the American public. The book was met with fierce opposition by chemical companies, but it swayed public opinion and led to a reversal in US pesticide policy, a nationwide ban on DDT for agricultural uses, and an environmental movement that led to the creation of the US Environmental Protection Agency. In 2006, Silent Spring was named one of the 25 greatest science books of all time by the editors of Discover magazine and is widely considered a forerunner text for modern environmentalism.",
+      "full_url": "https://en.wikipedia.org/wiki/Silent_Spring",
+      "sections": [
+        {
+          "title": "Research and writing",
+          "preview": "In the mid-1940s, Carson became concerned about the use of synthetic pesticides, many of which had been developed through the military funding of science after World War II. The United States Department of Agriculture's 1957 fire ant eradication program, which involved aerial spraying of DDT and other pesticides mixed with fuel oil and included the spraying of private land, prompted Carson to devo"
+        },
+        {
+          "title": "Content",
+          "preview": "The overarching theme of Silent Spring is the powerful—and often negative—effect humans have on the natural world. \"In nature, nothing exists alone,\" writes Carson. Her main argument is that pesticides have detrimental effects on the environment. She argues these are more properly termed \"biocides\" because their effects are rarely limited to solely targeting pests. DDT is a prime example, but othe"
+        },
+        {
+          "title": "Promotion and reception",
+          "preview": "Carson and the others involved with publication of Silent Spring expected fierce criticism and were concerned about the possibility of being sued for libel. Carson was undergoing radiation therapy for her cancer and expected to have little energy to defend her work and respond to critics. In preparation for the anticipated attacks, Carson and her agent attempted to amass prominent supporters befor"
+        },
+        {
+          "title": "Translations",
+          "preview": "The book was translated into many languages including German, French, Dutch, Japanese, Russian and Italian.\n\nGerman: Der stumme Frühling, first edition 1963.\nFrench: Printemps silencieux, first edition 1963.\nDutch: Dode lente, first edition 1964 or 1962\nJapanese: 生と死の妙薬, first edition 1964. Successive prints post-2001 titled 沈黙の春\nRussian: Безмолвная весна, first edition 1965.\nSwedish: Tyst vår, fi"
+        }
+      ],
+      "google_buy_url": "https://www.google.com/search?tbm=bks&q=buy+Silent+Spring+Rachel+Carson"
+    },
+    {
+      "slug": "book-research-tan",
+      "title": "Research Methods: A Practical Guide",
+      "wiki_title": "Scientific method",
+      "author": "Willie Tan",
+      "field": "Research Methodology & Epistemology",
+      "year": "2017",
+      "price": 18.0,
+      "cover_img": "assets/images/book-research-tan.png",
+      "summary": "The scientific method is an empirical method for acquiring knowledge through careful observation, rigorous skepticism, hypothesis testing, and experimental validation. Developed from ancient and medieval practices, it acknowledges that cognitive assumptions can distort the interpretation of the observation. The scientific method has characterized science since at least the 17th century. Scientific inquiry includes creating a testable hypothesis through inductive reasoning, testing it through experiments and statistical analysis, and adjusting or discarding the hypothesis based on the results. Although procedures vary across fields, the underlying process is often similar. In more detail: the scientific method involves making conjectures (hypothetical explanations), predicting the logical consequences of hypothesis, then carrying out experiments or empirical observations based on those predictions. A hypothesis is a conjecture based on knowledge obtained while seeking answers to the question. Hypotheses can be very specific or broad but must be falsifiable, implying that it is possible to identify a possible outcome of an experiment or observation that conflicts with predictions deduced from the hypothesis; otherwise, the hypothesis cannot be meaningfully tested. While the scientific method is often presented as a fixed sequence of steps, it actually represents a set of general principles. Not all steps take place in every scientific inquiry (nor to the same degree), and they are not always in the same order. Numerous discoveries have not followed the textbook model of the scientific method, and, in some cases, chance has played a role.",
+      "full_url": "https://en.wikipedia.org/wiki/Scientific_method",
+      "sections": [
+        {
+          "title": "History",
+          "preview": "The history of the scientific method is different from the history of science itself. The development of rules for scientific reasoning has not been straightforward; the scientific method has been the subject of intense and recurring debate throughout the history of science, and eminent natural philosophers and scientists have argued for the primacy of various approaches to establishing scientific"
+        },
+        {
+          "title": "Elements of inquiry",
+          "preview": ""
+        },
+        {
+          "title": "Foundational principles",
+          "preview": ""
+        },
+        {
+          "title": "Rationality",
+          "preview": "The following section will first explore beliefs and biases, and then get to the rational reasoning most associated with the sciences."
+        }
+      ],
+      "google_buy_url": "https://www.google.com/search?tbm=bks&q=buy+Research+Methods%3A+A+Practical+Guide+Willie+Tan"
+    },
+    {
+      "slug": "book-methodology-pandey",
+      "title": "A Book on Research Methodology",
+      "wiki_title": "Methodology",
+      "author": "Dr. Priyanka Pandey, Dr. Wasim Raza",
+      "field": "Life Sciences Research & Biostatistics",
+      "year": "2015",
+      "price": 18.0,
+      "cover_img": "assets/images/book-methodology-pandey.png",
+      "summary": "In its most common sense, methodology is the study of research methods. However, the term can also refer to the methods themselves or to the philosophical discussion of associated background assumptions. A method is a structured procedure for bringing about a certain goal, like acquiring knowledge or verifying knowledge claims. This normally involves various steps, like choosing a sample, collecting data from this sample, and interpreting the data. The study of methods concerns a detailed description and analysis of these processes. It includes evaluative aspects by comparing different methods. This way, it is assessed what advantages and disadvantages they have and for what research goals they may be used. These descriptions and evaluations depend on philosophical background assumptions. Examples are how to conceptualize the studied phenomena and what constitutes evidence for or against them. When understood in the widest sense, methodology also includes the discussion of these more abstract issues. Methodologies are traditionally divided into quantitative and qualitative research. Quantitative research is the main methodology of the natural sciences. It uses precise numerical measurements. Its goal is usually to find universal laws used to make predictions about future events. The dominant methodology in the natural sciences is called the scientific method. It includes steps like observation and the formulation of a hypothesis. Further steps are to test the hypothesis using an experiment, to compare the measurements to the expected results, and to publish the findings. Qualitative research is more characteristic of the social sciences and gives less prominence to exact numerical measurements. It aims more at an in-depth understanding of the meaning of the studied phenomena and less at universal and predictive laws. Common methods found in the social sciences are surveys, interviews, focus groups, and the nominal group technique. They differ from each other concerning their sample size, the types of questions asked, and the general setting. In recent decades, many social scientists have started using mixed-methods research, which combines quantitative and qualitative methodologies. Many discussions in methodology concern the question of whether the quantitative approach is superior, especially whether it is adequate when applied to the social domain. A few theorists reject methodology as a discipline in general. For example, some argue that it is useless since methods should be used rather than studied. Others hold that it is harmful because it restricts the freedom and creativity of researchers. Methodologists often respond to these objections by claiming that a good methodology helps researchers arrive at reliable theories in an efficient way. The choice of method often matters since the same factual material can lead to different conclusions depending on one's method. Interest in methodology has risen in the 20th century due to the increased importance of interdisciplinary work and the obstacles hindering efficient cooperation.",
+      "full_url": "https://en.wikipedia.org/wiki/Methodology",
+      "sections": [
+        {
+          "title": "Definitions",
+          "preview": "The term \"methodology\" is associated with a variety of meanings. In its most common usage, it refers either to a method, to the field of inquiry studying methods, or to philosophical discussions of background assumptions involved in these processes. Some researchers distinguish methods from methodologies by holding that methods are modes of data collection while methodologies are more general rese"
+        },
+        {
+          "title": "Types",
+          "preview": "Theorists often distinguish various general types or approaches to methodology. The most influential classification contrasts quantitative and qualitative methodology."
+        },
+        {
+          "title": "Importance",
+          "preview": "It has been argued that a proper understanding of methodology is important for various issues in the field of research. They include both the problem of conducting efficient and reliable research as well as being able to validate knowledge claims by others. Method is often seen as one of the main factors of scientific progress. This is especially true for the natural sciences where the development"
+        },
+        {
+          "title": "Criticism",
+          "preview": "Most criticism of methodology is directed at one specific form or understanding of it. In such cases, one particular methodological theory is rejected but not methodology at large when understood as a field of research comprising many different theories. In this regard, many objections to methodology focus on the quantitative approach, specifically when it is treated as the only viable approach. N"
+        }
+      ],
+      "google_buy_url": "https://www.google.com/search?tbm=bks&q=buy+A+Book+on+Research+Methodology+Dr.+Priyanka+Pandey%2C+Dr.+Wasim+Raza"
+    },
+    {
+      "slug": "book-writing-cargill",
+      "title": "Writing Scientific Research Articles",
+      "wiki_title": "Academic publishing",
+      "author": "Margaret Cargill & Patrick O'Connor",
+      "field": "Scientific Communication & Peer Review",
+      "year": "2013",
+      "price": 18.0,
+      "cover_img": "assets/images/book-writing-cargill.png",
+      "summary": "Academic publishing is the subfield of publishing which distributes academic research and scholarship. Most academic work is published in academic journal articles, books or theses. The part of academic written output that is not formally published but merely printed up or posted on the Internet is often called \"grey literature\". Most scientific and scholarly journals, and many academic and scholarly books, though not all, are based on some form of peer review or editorial refereeing to qualify texts for publication. Peer review quality and selectivity standards vary greatly from journal to journal, publisher to publisher, and field to field. Most established academic disciplines have their own journals and other outlets for publication, although many academic journals are somewhat interdisciplinary, and publish work from several distinct fields or subfields. There is also a tendency for existing journals to divide into specialized sections as the field itself becomes more specialized. Along with the variation in review and publication procedures, the kinds of publications that are accepted as contributions to knowledge or research differ greatly among fields and subfields. In the sciences, the desire for statistically significant results leads to publication bias. Academic publishing is undergoing major changes as it makes the transition from the print to the electronic format. Business models are different in the electronic environment. Since the early 1990s, licensing of electronic resources, particularly journals, has been very common. An important trend, particularly with respect to journals in the sciences, is open access via the Internet. In open access publishing, a journal article is made available free for all on the web by the publisher at the time of publication. Both open and closed journals are sometimes funded by the author paying an article processing charge, thereby shifting some fees from the reader to the researcher or their funder. Many open or closed journals fund their operations without such fees and others use them in predatory publishing. The Internet has facilitated open access self-archiving, in which authors themselves make a copy of their published articles available free for all on the web. Some important results in mathematics have been published only on arXiv.",
+      "full_url": "https://en.wikipedia.org/wiki/Academic_publishing",
+      "sections": [
+        {
+          "title": "History",
+          "preview": "The Journal des sçavans (later spelled Journal des savants), established by Denis de Sallo, was the earliest academic journal published in Europe. Its content included obituaries of famous men, church history, and legal reports. The first issue appeared as a twelve-page quarto pamphlet on Monday, 5 January 1665, shortly before the first appearance of the Philosophical Transactions of the Royal Soc"
+        },
+        {
+          "title": "Publishers and business aspects",
+          "preview": "In the 1960s and 1970s, commercial publishers began to selectively acquire \"top-quality\" journals that were previously published by nonprofit academic societies. When the commercial publishers raised the subscription prices significantly, they lost little of the market, due to the inelastic demand for these journals. Although there are over 2,000 publishers, five for-profit companies (Reed Elsevie"
+        },
+        {
+          "title": "Scholarly paper",
+          "preview": "In academic publishing, a paper is an academic work that is usually published in an academic journal. It contains original research results or reviews existing results. Such a paper, also called an article, will only be considered valid if it undergoes a process of peer review by one or more referees (who are academics in the same field) who check that the content of the paper is suitable for publ"
+        },
+        {
+          "title": "Peer review",
+          "preview": "Peer review is a central concept for most academic publishing; other scholars in a field must find a work sufficiently high in quality for it to merit publication. A group of experts reviews the manuscript regarding its originality, correctness, and relevance. A secondary benefit of the process is an indirect guard against plagiarism since reviewers are usually familiar with the sources consulted"
+        }
+      ],
+      "google_buy_url": "https://www.google.com/search?tbm=bks&q=buy+Writing+Scientific+Research+Articles+Margaret+Cargill+%26+Patrick+O%27Connor"
+    },
+    {
+      "slug": "book-wilson",
+      "title": "An Introduction to Scientific Research",
+      "wiki_title": "E. Bright Wilson",
+      "author": "E. Bright Wilson, Jr.",
+      "field": "Experimental Design & Scientific Philosophy",
+      "year": "1952",
+      "price": 18.0,
+      "cover_img": "assets/images/book-wilson.png",
+      "summary": "Edgar Bright Wilson Jr. (December 18, 1908 – July 12, 1992) was an American chemist. Wilson was a prominent and accomplished chemist and teacher, recipient of the National Medal of Science in 1975, Guggenheim Fellowships in 1949 and 1970, the Elliott Cresson Medal in 1982, and a number of honorary doctorates. He was a member of both the American Academy of Arts and Sciences, the American Philosophical Society, and the United States National Academy of Sciences. He was also the Theodore William Richards Professor of Chemistry, Emeritus at Harvard University. One of his sons, Kenneth G. Wilson, was awarded the Nobel Prize in physics in 1982. E. B. Wilson was a student and protégé of Nobel laureate Linus Pauling and was a coauthor with Pauling of Introduction to Quantum Mechanics, a graduate level textbook in Quantum Mechanics. Wilson was also the thesis advisor of Nobel laureate Dudley Herschbach. Wilson was elected to the first class of the Harvard Society of Fellows. Wilson made major contributions to the field of molecular spectroscopy. He developed the first rigorous quantum mechanical Hamiltonian in internal coordinates for a polyatomic molecule. He developed the theory of how rotational spectra are influenced by centrifugal distortion during rotation. He pioneered the use of group theory for the analysis and simplification normal mode analysis, particularly for high symmetry molecules, such as benzene. In 1955, Wilson published Molecular Vibrations along with J.C. Decius and Paul C. Cross. Following the Second World War, Wilson was a pioneer in the application of microwave spectroscopy to the determination of molecular structure. Wilson wrote an influential introductory text Introduction to Scientific Research that provided an introduction of all the steps of scientific research, from defining a problem through the archival of data after publication. Starting in 1997, the American Chemical Society has annually awarded the E. Bright Wilson Award in Spectroscopy, named in honor of Wilson.",
+      "full_url": "https://en.wikipedia.org/wiki/Edgar_Bright_Wilson",
+      "sections": [
+        {
+          "title": "Scientific career",
+          "preview": "Bright started his higher education at Princeton in 1926, where he received both his bachelor's and master's degree in 1930 and 1931 respectively. He then went to the California Institute of Technology where he worked with Linus Pauling on crystal structure determinations and finished his PhD. During this time, he also wrote a textbook with Pauling, called Introduction to Quantum Mechanics, which"
+        },
+        {
+          "title": "Personal life",
+          "preview": "Wilson was born in Gallatin, Tennessee to mother Alma Lackey and father Edgar Bright Wilson, a lawyer. His family soon moved to Yonkers, New York.\nHe was married to Emily Buckingham from 1935 until she died in 1954. He remarried to Therese Bremer in 1955, a distinguished photochemist. Wilson had a total of 4 sons and 2 daughters, one of whom was Kenneth Wilson, a Nobel Laureate in physics.\nIn his"
+        }
+      ],
+      "google_buy_url": "https://www.google.com/search?tbm=bks&q=buy+An+Introduction+to+Scientific+Research+E.+Bright+Wilson%2C+Jr."
+    },
+    {
+      "slug": "book-behavioral-kline",
+      "title": "Becoming a Behavioral Science Researcher",
+      "wiki_title": "Behavioral sciences",
+      "author": "Rex B. Kline",
+      "field": "Quantitative Psychology & Statistics",
+      "year": "2020",
+      "price": 18.0,
+      "cover_img": "assets/images/book-behavioral-kline.png",
+      "summary": "Behavioural science is the branch of science concerned with theorizing on categorizing and judging human behaviour. It sits in the interstice between fields such as psychology, cognitive science, neuroscience, behavioral biology, behavioral genetics and social science. While the term can technically be applied to the study of behaviour amongst all living organisms, it is nearly always used with reference to humans as the primary target of investigation (though animals may be studied in some instances, e.g. invasive techniques).",
+      "full_url": "https://en.wikipedia.org/wiki/Behavioural_sciences",
+      "sections": [
+        {
+          "title": "History and scope",
+          "preview": "Behavioural science has its roots in the systematic study of human and animal behaviour, shaped by work in psychology, behavioural neuroscience, and related disciplines. Early experimental psychologists such as B.F. Skinner, Ivan Pavlov, and John B. Watson developed methods for observing, measuring, and modifying behaviour, while advances in neuroscience connected behaviour to brain structure, neu"
+        },
+        {
+          "title": "Universities with significant behavioural science labs",
+          "preview": "Several universities are recognized for their prominent behavioural science research programs and laboratories. These institutions integrate interdisciplinary approaches combining psychology, neuroscience, and computational methods to advance understanding of behaviour and develop applied interventions.\nNotable examples include:\n\nStanford University: home to the Stanford Behavioral Lab and the Cen"
+        },
+        {
+          "title": "Methods and approaches",
+          "preview": "Behavioural science has evolved through a combination of experimental, observational, and physiological techniques, beginning with early laboratory work and extending into sophisticated modern technologies.\nEarly experimental methods\nIn the early 20th century, pioneers such as B.F. Skinner developed apparatuses like the operant conditioning chamber (\"Skinner box\") to systematically measure learnin"
+        },
+        {
+          "title": "Applications",
+          "preview": "Insights from several pure disciplines across behavioural sciences are explored by various applied disciplines and practiced in the context of everyday life and business.\nConsumer behaviour, for instance, is the study of the decision making process consumers make when purchasing goods or services. It studies the way consumers recognise problems and discover solutions. Behavioural science is applie"
+        }
+      ],
+      "google_buy_url": "https://www.google.com/search?tbm=bks&q=buy+Becoming+a+Behavioral+Science+Researcher+Rex+B.+Kline"
+    },
+    {
+      "slug": "book-cosmos",
+      "title": "Cosmos",
+      "wiki_title": "Cosmos (Sagan book)",
+      "author": "Carl Sagan",
+      "field": "Astronomy, Astrophysics & Astrobiology",
+      "year": "1980",
+      "price": 18.0,
+      "cover_img": "assets/images/book-cosmos.png",
+      "summary": "Cosmos is a popular science book written by astronomer and Pulitzer Prize-winning author Carl Sagan. It was published in 1980 as a companion piece to the PBS mini-series Cosmos: A Personal Voyage with which it was co-developed and intended to complement. Each of the book's 13 illustrated chapters corresponds to one of the 13 episodes of the television series. Just a few of the ideas explored in Cosmos include the history and mutual development of science and civilization, the nature of the Universe, human and robotic space exploration, the inner workings of the cell and the DNA that controls it, and the dangers and future implications of nuclear war. One of Sagan's main purposes for both the book and the television series was to explain complex scientific ideas in a way that anyone interested in learning can understand. Sagan also believed the television was one of the greatest teaching tools ever invented, so he wished to capitalize on his chance to educate the world. Spurred in part by the popularity of the TV series, Cosmos spent 50 weeks on the Publishers Weekly best-sellers list and 70 weeks on the New York Times Best Seller list to become the best-selling science book ever published at the time. In 1981, it received the Hugo Award for Best Non-Fiction Book. The unprecedented success of Cosmos ushered in a dramatic increase in visibility for science-themed literature. The success of the book also served to jumpstart Sagan's literary career. The sequel to Cosmos is Pale Blue Dot: A Vision of the Human Future in Space (1994). In 2013, a new edition of Cosmos was published, with a foreword by Ann Druyan and an essay by Neil deGrasse Tyson.",
+      "full_url": "https://en.wikipedia.org/wiki/Cosmos_(Sagan_book)",
+      "sections": [
+        {
+          "title": "Summary",
+          "preview": "Cosmos has 13 chapters, corresponding to the 13 episodes of the Cosmos television series. In the original edition, each chapter is heavily illustrated. The book covers a broad range of topics, comprising Sagan's reflections on anthropological, cosmological, biological, historical, and astronomical matters from antiquity to contemporary times. Sagan reiterates his position on extraterrestrial life—"
+        },
+        {
+          "title": "Popularity",
+          "preview": "Shortly after release, Cosmos became the best-selling science book ever published in the English language, and was the first science book to sell more than half a million copies. Though spurred in part by the popularity of the television series, Cosmos became a best-seller by its own regard, reaching hundreds of thousands of readers. It was only surpassed in the late 1980s by Stephen Hawking's A B"
+        },
+        {
+          "title": "Critical reception",
+          "preview": "Reception for Sagan's work was generally positive. In The New York Times Book Review, novelist James Michener praised Cosmos as \"a cleverly written, imaginatively illustrated summary of [Sagan's]... ruminations about our universe... His style is iridescent, with lights flashing upon unexpected juxtapositions of thought.\" The American astrophysicist Neil deGrasse Tyson described \"Cosmos\" as somethi"
+        }
+      ],
+      "google_buy_url": "https://www.google.com/search?tbm=bks&q=buy+Cosmos+Carl+Sagan"
+    },
+    {
+      "slug": "book-selfishgene",
+      "title": "The Selfish Gene",
+      "wiki_title": "The Selfish Gene",
+      "author": "Richard Dawkins",
+      "field": "Evolutionary Biology & Genetics",
+      "year": "1976",
+      "price": 18.0,
+      "cover_img": "assets/images/book-selfishgene.png",
+      "summary": "The Selfish Gene is a 1976 popular science book by Richard Dawkins that espouses the gene-centred view of evolution. It builds upon the thesis of George Christopher Williams's Adaptation and Natural Selection (1966) and W. D. Hamilton's work on kin selection. From the gene-centred view, it follows that the more genes two individuals share, the more sense it makes for them to co-operate. The book introduced the term meme for a unit of cultural evolution analogous to the gene. Memetics has become a subject in its own right in the years since. In popularising Hamilton's ideas, as well as making its own valuable contributions to the field, the book has also stimulated research on human inclusive fitness. The \"selfish gene\" is a metaphor for the gene-centred view of evolution. As such, the book is not about a particular gene that causes selfish behaviour; in fact, much of it is devoted to explaining the evolution of altruism. Dawkins says that the title \"might give an inadequate impression\" of the book's topic and in retrospect wishes he had taken Tom Maschler's advice and titled it The Immortal Gene. He laments that many people \"read it by title only.\" In response, he expanded on the evolution of altruism in the BBC documentary Nice Guys Finish First.",
+      "full_url": "https://en.wikipedia.org/wiki/The_Selfish_Gene",
+      "sections": [
+        {
+          "title": "Background",
+          "preview": "Dawkins builds upon George Christopher Williams's book Adaptation and Natural Selection (1966), which argued that altruism is not based upon group benefit per se, but results from selection that occurs \"at the level of the gene mediated by the phenotype\" and that any selection at the group level occurred only under rare circumstances. W. D. Hamilton and others developed this approach further durin"
+        },
+        {
+          "title": "Book",
+          "preview": ""
+        },
+        {
+          "title": "Reception",
+          "preview": "The Selfish Gene was extremely popular when published and it remains widely read. Proponents argue that the central point, that replicating the gene is the object of selection, usefully completes and extends Darwin's explanation of evolution. Peter Medawar wrote that it is \"a most skillful reformulation of the central problems of social biology in terms of the genetical theory of natural selection"
+        },
+        {
+          "title": "Influence",
+          "preview": ""
+        }
+      ],
+      "google_buy_url": "https://www.google.com/search?tbm=bks&q=buy+The+Selfish+Gene+Richard+Dawkins"
+    },
+    {
+      "slug": "book-scienceofscience",
+      "title": "The Science of Science",
+      "wiki_title": "Science of science",
+      "author": "Dashun Wang & Albert-László Barabási",
+      "field": "Network Science, Scientometrics & Big Data",
+      "year": "2021",
+      "price": 18.0,
+      "cover_img": "assets/images/book-scienceofscience.png",
+      "summary": "Metascience, also known as science of science, is the systematic study of science itself. It analyzes the practices, structures, and outcomes of scientific research, including research design, peer review, publication bias, replication, and incentive structures, with the aim of improving the reliability, transparency, and impact of scientific knowledge production. Emerging at the intersection of the philosophy of science, the sociology of science, scientometrics, and research methodology, it draws on empirical and quantitative approaches to evaluate how science is conducted, communicated, and assessed. The field has gained prominence in the context of the replication crisis and broader debates around open science, research integrity, and evidence-based policy. Its scope encompasses all fields of research and has been described as offering \"a bird's eye view of science\". In the words of John Ioannidis, \"Science is the best thing that has happened to human beings ... but we can do it better.\" In 1966, an early meta-research paper examined the statistical methods of 295 papers published in ten high-profile medical journals. It found that \"in almost 73% of the reports read ... conclusions were drawn when the justification for these conclusions was invalid.\" Meta-research in the following decades found many methodological flaws, inefficiencies, and poor practices in research across numerous scientific fields. Many scientific studies could not be reproduced, particularly in medicine and the social sciences. The term \"replication crisis\" was coined in the early 2010s as part of a growing awareness of the problem. Measures have been implemented to address the issues revealed by metascience. These measures include the pre-registration of scientific studies and clinical trials, as well as the founding of organizations such as CONSORT and the EQUATOR Network that issue guidelines for methodology and reporting. There are ongoing efforts aimed at addressing misuse of statistics, eliminating perverse incentives within academic institutions, improving the peer review process, systematically collecting data about the scholarly publication system, combating bias in scientific literature, and enhancing the overall quality and efficiency of the scientific process. As such, metascience is a big part of methods underlying the open science movement.",
+      "full_url": "https://en.wikipedia.org/wiki/Metascience",
+      "sections": [
+        {
+          "title": "History",
+          "preview": "In 1966, an early meta-research paper examined the statistical methods of 295 papers published in ten high-profile medical journals. It found that \"in almost 73% of the reports read ... conclusions were drawn when the justification for these conclusions was invalid.\" A paper in 1976 called for funding for meta-research: \"Because the very nature of research on research, particularly if it is prospe"
+        },
+        {
+          "title": "Fields and topics of meta-research",
+          "preview": "Metascience can be categorized into five major areas of interest: Methods, Reporting, Reproducibility, Evaluation, and Incentives. These correspond, respectively, with how to perform, communicate, verify, evaluate, and reward research."
+        },
+        {
+          "title": "Reforms",
+          "preview": "Meta-research identifying flaws in scientific practice has inspired reforms in science. These reforms seek to address and fix problems in scientific practice which lead to low-quality or inefficient research.\nA 2015 study lists \"fragmented\" efforts in meta-research."
+        },
+        {
+          "title": "Applications",
+          "preview": ""
+        }
+      ],
+      "google_buy_url": "https://www.google.com/search?tbm=bks&q=buy+The+Science+of+Science+Dashun+Wang+%26+Albert-L%C3%A1szl%C3%B3+Barab%C3%A1si"
+    }
+  ],
+  "subjects": [
+    {
+      "slug": "classical-mechanics",
+      "name": "Classical Mechanics",
+      "wiki_title": "Classical mechanics",
+      "kicker": "01 • FOUNDATIONAL PHYSICS",
+      "description": "Motion of macroscopic objects under forces, from planetary orbits to projectile trajectory.",
+      "summary": "In physics, classical mechanics is a theory that describes the effect of forces on the motion of macroscopic objects and bulk matter, without considering quantum effects, and often without incorporating relativistic effects either. It is used in describing the motion of objects such as projectiles and particles, parts of machinery, spacecraft, planets, stars, galaxies, deformable solids, fluids, macromolecules and other objects. The development of classical mechanics involved substantial change in the methods and philosophy of physics. The qualifier classical distinguishes this type of mechanics from new methods developed after the revolutions in physics of the early 20th century which revealed limitations in classical mechanics. Some modern sources include relativistic mechanics in classical mechanics, as representing the subject matter in its most developed and accurate form. The earliest formulation of classical mechanics is often referred to as Newtonian mechanics. It consists of the physical concepts based on the 17th century foundational works of Sir Isaac Newton, and the mathematical methods invented by Newton, Gottfried Wilhelm Leibniz, Leonhard Euler and others to describe the motion of bodies under the influence of forces. Later, methods based on energy were developed by Euler, Joseph-Louis Lagrange, William Rowan Hamilton and others, leading to the development of analytical mechanics (which includes Lagrangian mechanics and Hamiltonian mechanics). These advances, made predominantly in the 18th and 19th centuries, extended beyond earlier works; they are, with some modification, used in all areas of modern physics. If the present state of an object that obeys the laws of classical mechanics is known, it is possible to determine how it will move in the future, and how it has moved in the past. Chaos theory shows that the long term predictions of classical mechanics are not reliable. Classical mechanics provides accurate results when studying objects that are not extremely massive and have speeds not approaching the speed of light. With objects about the size of an atom's diameter, it becomes necessary to use quantum mechanics. To describe velocities approaching the speed of light, special relativity is needed. In cases where objects become extremely massive, general relativity becomes applicable.",
+      "full_url": "https://en.wikipedia.org/wiki/Classical_mechanics"
+    },
+    {
+      "slug": "quantum-mechanics",
+      "name": "Quantum Mechanics",
+      "wiki_title": "Quantum mechanics",
+      "kicker": "02 • MICROSCOPIC REALITY",
+      "description": "Fundamental theory in physics describing the behavior of nature at the scale of atoms and subatomic particles.",
+      "summary": "Quantum mechanics, also known as quantum physics, is the fundamental physical theory that describes the behavior of matter and of light; the behaviors it models typically occur at and below the scale of atoms, and have often been described as counterintuitive. Its concepts and methods have been applied across many disciplines, including quantum chemistry, quantum biology, quantum field theory, quantum technology, and quantum information science. Quantum mechanics can describe many systems that classical physics cannot. Classical physics can describe many aspects of nature at an ordinary (macroscopic and (optical) microscopic) scale; however, it is insufficient for describing them at very small submicroscopic (atomic and subatomic) scales. Classical mechanics can be derived from quantum mechanics as an approximation that is valid at ordinary scales. Quantum systems have bound states that are quantized to discrete values of energy, momentum, angular momentum, and other quantities, in contrast to classical systems where these quantities can be measured continuously. Measurements of quantum systems show characteristics of both particles and waves (wave–particle duality), and there are limits to how accurately the value of a physical quantity can be predicted prior to its measurement, given a complete set of initial conditions (the uncertainty principle). Quantum mechanics arose gradually from theories to explain observations that could not be reconciled with classical physics, such as Max Planck's solution in 1900 to the black-body radiation problem, and the correspondence between energy and frequency in Albert Einstein's 1905 paper, which explained the photoelectric effect. These early attempts to understand microscopic phenomena, now known as the \"old quantum theory\", led to the full development of quantum mechanics in the mid-1920s by Niels Bohr, Erwin Schrödinger, Werner Heisenberg, Max Born, Paul Dirac and others. The modern theory is formulated in various specially developed mathematical formalisms. In one of them, a mathematical entity called the wave function provides information, in the form of probability amplitudes, about what measurements of a particle's energy, momentum, and other physical properties may yield.",
+      "full_url": "https://en.wikipedia.org/wiki/Quantum_mechanics"
+    },
+    {
+      "slug": "astrophysics",
+      "name": "Astrophysics & Cosmology",
+      "wiki_title": "Astrophysics",
+      "kicker": "03 • COSMIC SCALE",
+      "description": "The study of stars, black holes, the expansion of the universe, and the fabric of spacetime.",
+      "summary": "Astrophysics is a science that applies the methods and principles of physics and chemistry in the study of astronomical objects and phenomena including the universe. As one of the founders of the discipline, James Keeler, said, astrophysics \"seeks to ascertain the nature of the heavenly bodies, rather than their positions or motions in space—what they are, rather than where they are\", which is studied in celestial mechanics. Astrophysics is also used when designing and plotting courses for spacecraft. Among the subjects studied are the Sun (solar physics), other stars, galaxies, extrasolar planets, the interstellar medium, and the cosmic microwave background. Emissions from these objects are examined across all parts of the electromagnetic spectrum, and the properties examined include luminosity, density, temperature, and chemical composition. Because astrophysics is a very broad subject, astrophysicists apply concepts and methods from many disciplines of physics, including classical mechanics, electromagnetism, statistical mechanics, thermodynamics, quantum mechanics, relativity, nuclear and particle physics, and atomic and molecular physics. In practice, modern astronomical research often involves substantial work in the realms of theoretical and observational physics. Some areas of study for astrophysicists include the properties of dark matter, dark energy, black holes, and other celestial bodies; and the origin and ultimate fate of the universe. Topics also studied by theoretical astrophysicists include Solar System formation and evolution; stellar dynamics and evolution; galaxy formation and evolution; magnetohydrodynamics; large-scale structure of matter in the universe; cosmic rays; general relativity, special relativity, and quantum and physical cosmology (the physical study of the largest-scale structures of the universe), including string cosmology and astroparticle physics.",
+      "full_url": "https://en.wikipedia.org/wiki/Astrophysics"
+    },
+    {
+      "slug": "evolutionary-biology",
+      "name": "Evolutionary Biology",
+      "wiki_title": "Evolutionary biology",
+      "kicker": "04 • LIFE SCIENCES",
+      "description": "The origin and descent of species, genetic inheritance, and natural selection across geological epochs.",
+      "summary": "Evolutionary biology is a subfield of biology that analyzes the four mechanisms of evolution: natural selection, mutation, genetic drift, and gene flow. Natural selection was independently discovered as the engine of evolution by Charles Darwin and Alfred Russel Wallace, based on patterns in the geographic distribution of species. Gregor Mendel discovered the laws of heredity. R. A. Fisher unified Darwin and Mendel in the modern synthesis. The investigational range of current research has widened to encompass the genetic architecture of adaptation, molecular evolution, and the different forces that contribute to evolution, such as sexual selection, genetic drift, and biogeography. The newer field of evolutionary developmental biology (\"evo-devo\") investigates how embryogenesis is controlled, thus yielding a wider synthesis that integrates developmental biology with the fields of study covered by the earlier evolutionary synthesis. Evolution accounts for the unity and diversity of life on Earth; Theodosius Dobzhansky famously said that nothing in biology makes sense without it.",
+      "full_url": "https://en.wikipedia.org/wiki/Evolutionary_biology"
+    }
+  ]
+}

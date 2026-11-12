@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="100%" height="100%">
+  <radialGradient id="curieG" cx="50%" cy="40%" r="55%">
+    <stop offset="0%" stop-color="#3f3f46"/>
+    <stop offset="100%" stop-color="#09090b"/>
+  </radialGradient>
+  <rect width="300" height="400" fill="url(#curieG)"/>
+  
+  <g fill="#e4e4e7">
+    <!-- Victorian Updo Hairstyle -->
+    <path d="M100 120 C100 70, 130 50, 150 50 C170 50, 200 70, 200 120 C215 140, 210 170, 205 190 C195 160, 195 130, 185 110 C170 85, 130 85, 115 110 C105 130, 105 160, 95 190 C90 170, 85 140, 100 120 Z" fill="#71717a"/>
+    <!-- Face -->
+    <path d="M110 130 C110 200, 120 245, 150 250 C180 245, 190 200, 190 130 C190 115, 180 105, 150 105 C120 105, 110 115, 110 130 Z" fill="#d4d4d8"/>
+    
+    <!-- Eyes, nose, mouth -->
+    <path d="M125 155 Q135 150 142 155 M175 155 Q165 150 158 155" stroke="#18181b" stroke-width="2" fill="none"/>
+    <circle cx="134" cy="162" r="3" fill="#18181b"/>
+    <circle cx="166" cy="162" r="3" fill="#18181b"/>
+    <path d="M150 160 L152 195 Q147 200 143 200" stroke="#18181b" stroke-width="1.8" fill="none"/>
+    <path d="M140 215 Q150 212 160 215 Q150 219 140 215" fill="#18181b"/>
+    
+    <!-- High Neck Victorian Dress with lace -->
+    <path d="M70 400 L115 270 L150 280 L185 270 L230 400 Z" fill="#18181b"/>
+    <path d="M135 250 L165 250 L160 280 L140 280 Z" fill="#f4f4f5" stroke="#a1a1aa"/>
+  </g>
+  <rect x="8" y="8" width="284" height="384" fill="none" stroke="#52525b" stroke-width="1"/>
+</svg>
